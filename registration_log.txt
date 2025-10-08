@@ -1,0 +1,2092 @@
+2025-10-08 19:03:40,936 - INFO - Starting first stage: ECC registration...
+2025-10-08 19:04:05,872 - INFO - Starting first stage: ECC registration...
+2025-10-08 19:04:09,017 - INFO - User choice for preprocessing for ECC: n
+2025-10-08 19:04:09,017 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-08 19:04:09,020 - INFO - Using 11 parallel workers for ECC alignment
+2025-10-08 19:04:09,036 - INFO - Saved reference image: ./ECC_output/aligned_00001-2a7c9686.tif
+2025-10-08 19:04:09,036 - INFO - Processing 99 images for ECC alignment
+2025-10-08 19:04:09,037 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-08 19:04:50,141 - INFO - Saved aligned image: ./ECC_output/aligned_00003-570d0074.tif
+2025-10-08 19:04:50,141 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-08 19:04:50,143 - INFO - Saved aligned image: ./ECC_output/aligned_00007-4a606178.tif
+2025-10-08 19:04:50,143 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-08 19:04:50,144 - INFO - Saved aligned image: ./ECC_output/aligned_00010-5644e032.tif
+2025-10-08 19:04:50,144 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-08 19:04:50,145 - INFO - Saved aligned image: ./ECC_output/aligned_00004-ca974273.tif
+2025-10-08 19:04:50,145 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-08 19:04:50,147 - INFO - Saved aligned image: ./ECC_output/aligned_00012-d4dfd38f.tif
+2025-10-08 19:04:50,147 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-08 19:04:50,148 - INFO - Saved aligned image: ./ECC_output/aligned_00009-d44859eb.tif
+2025-10-08 19:04:50,149 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-08 19:04:50,150 - INFO - Saved aligned image: ./ECC_output/aligned_00011-c2649c60.tif
+2025-10-08 19:04:50,150 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-08 19:04:50,151 - INFO - Saved aligned image: ./ECC_output/aligned_00002-95cdc696.tif
+2025-10-08 19:04:50,151 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-08 19:04:50,153 - INFO - Saved aligned image: ./ECC_output/aligned_00008-8cdeb968.tif
+2025-10-08 19:04:50,153 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-08 19:04:50,154 - INFO - Saved aligned image: ./ECC_output/aligned_00005-897e5091.tif
+2025-10-08 19:04:50,154 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-08 19:04:50,155 - INFO - Saved aligned image: ./ECC_output/aligned_00006-4eceef4d.tif
+2025-10-08 19:04:50,156 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-08 19:04:50,156 - INFO - Saved aligned image: ./ECC_output/aligned_00014-f6b93706.tif
+2025-10-08 19:04:50,158 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-08 19:04:50,159 - INFO - Saved aligned image: ./ECC_output/aligned_00015-7cc2e54.tif
+2025-10-08 19:04:50,159 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-08 19:04:50,160 - INFO - Saved aligned image: ./ECC_output/aligned_00016-d921c5ae.tif
+2025-10-08 19:04:50,160 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-08 19:04:50,161 - INFO - Saved aligned image: ./ECC_output/aligned_00019-86a3aace.tif
+2025-10-08 19:04:50,162 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-08 19:04:50,162 - INFO - Saved aligned image: ./ECC_output/aligned_00017-395951dd.tif
+2025-10-08 19:04:50,164 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-08 19:04:50,164 - INFO - Saved aligned image: ./ECC_output/aligned_00018-dacf634.tif
+2025-10-08 19:04:50,165 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-08 19:04:50,165 - INFO - Saved aligned image: ./ECC_output/aligned_00020-5c6536bb.tif
+2025-10-08 19:04:50,166 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-08 19:04:50,166 - INFO - Saved aligned image: ./ECC_output/aligned_00021-d96c06dd.tif
+2025-10-08 19:04:50,166 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-08 19:04:50,168 - INFO - Saved aligned image: ./ECC_output/aligned_00022-f17bc0f.tif
+2025-10-08 19:04:50,169 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-08 19:04:50,169 - INFO - Saved aligned image: ./ECC_output/aligned_00013-bec21585.tif
+2025-10-08 19:04:50,169 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-08 19:04:50,170 - INFO - Saved aligned image: ./ECC_output/aligned_00025-7ec122bc.tif
+2025-10-08 19:04:50,171 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-08 19:04:50,171 - INFO - Saved aligned image: ./ECC_output/aligned_00024-63e1dad3.tif
+2025-10-08 19:04:50,173 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-08 19:04:50,174 - INFO - Saved aligned image: ./ECC_output/aligned_00026-6ef05eb8.tif
+2025-10-08 19:04:50,174 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-08 19:04:50,175 - INFO - Saved aligned image: ./ECC_output/aligned_00029-f492f701.tif
+2025-10-08 19:04:50,177 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-08 19:04:50,177 - INFO - Saved aligned image: ./ECC_output/aligned_00027-35f34ee5.tif
+2025-10-08 19:04:50,178 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-08 19:04:50,178 - INFO - Saved aligned image: ./ECC_output/aligned_00028-50a82ee7.tif
+2025-10-08 19:04:50,179 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-08 19:04:50,180 - INFO - Saved aligned image: ./ECC_output/aligned_00030-7312ecad.tif
+2025-10-08 19:04:50,180 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-08 19:04:50,182 - INFO - Saved aligned image: ./ECC_output/aligned_00031-eb7058b.tif
+2025-10-08 19:04:50,183 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-08 19:04:50,183 - INFO - Saved aligned image: ./ECC_output/aligned_00023-bc8246b5.tif
+2025-10-08 19:04:50,184 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-08 19:04:50,185 - INFO - Saved aligned image: ./ECC_output/aligned_00032-8d386c59.tif
+2025-10-08 19:04:50,185 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-08 19:04:50,186 - INFO - Saved aligned image: ./ECC_output/aligned_00033-d906248.tif
+2025-10-08 19:04:50,186 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-08 19:04:50,186 - INFO - Saved aligned image: ./ECC_output/aligned_00034-85938335.tif
+2025-10-08 19:04:50,187 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-08 19:04:50,189 - INFO - Saved aligned image: ./ECC_output/aligned_00036-57955b6f.tif
+2025-10-08 19:04:50,190 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-08 19:04:50,191 - INFO - Saved aligned image: ./ECC_output/aligned_00037-9ec66cca.tif
+2025-10-08 19:04:50,193 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-08 19:04:50,193 - INFO - Saved aligned image: ./ECC_output/aligned_00040-35e343e8.tif
+2025-10-08 19:04:50,194 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-08 19:04:50,194 - INFO - Saved aligned image: ./ECC_output/aligned_00039-ca6089a6.tif
+2025-10-08 19:04:50,194 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-08 19:04:50,194 - INFO - Saved aligned image: ./ECC_output/aligned_00038-f20090a7.tif
+2025-10-08 19:04:50,194 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-08 19:04:50,195 - INFO - Saved aligned image: ./ECC_output/aligned_00041-8f258615.tif
+2025-10-08 19:04:50,197 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-08 19:04:50,197 - INFO - Saved aligned image: ./ECC_output/aligned_00035-3da70e49.tif
+2025-10-08 19:04:50,198 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-08 19:04:50,199 - INFO - Saved aligned image: ./ECC_output/aligned_00044-943a0bd2.tif
+2025-10-08 19:04:50,199 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-08 19:04:50,201 - INFO - Saved aligned image: ./ECC_output/aligned_00043-fb9c5dfc.tif
+2025-10-08 19:04:50,201 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-08 19:04:50,202 - INFO - Saved aligned image: ./ECC_output/aligned_00045-dafd8b1.tif
+2025-10-08 19:04:50,203 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-08 19:04:50,203 - INFO - Saved aligned image: ./ECC_output/aligned_00042-3325c229.tif
+2025-10-08 19:04:50,203 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-08 19:04:50,203 - INFO - Saved aligned image: ./ECC_output/aligned_00047-13b10311.tif
+2025-10-08 19:04:50,203 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-08 19:04:50,203 - INFO - Saved aligned image: ./ECC_output/aligned_00046-699be951.tif
+2025-10-08 19:04:50,205 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-08 19:04:50,205 - INFO - Saved aligned image: ./ECC_output/aligned_00049-f025c6e6.tif
+2025-10-08 19:04:50,205 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-08 19:04:50,205 - INFO - Saved aligned image: ./ECC_output/aligned_00050-b32ba3cf.tif
+2025-10-08 19:04:50,205 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-08 19:04:50,205 - INFO - Saved aligned image: ./ECC_output/aligned_00051-d9f9a9d9.tif
+2025-10-08 19:04:50,205 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-08 19:04:50,206 - INFO - Saved aligned image: ./ECC_output/aligned_00048-87d3e668.tif
+2025-10-08 19:04:50,206 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-08 19:04:50,706 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-08 19:05:36,917 - INFO - Saved aligned image: ./ECC_output/aligned_00054-efc2ed68.tif
+2025-10-08 19:05:36,918 - INFO - Mean Squared Error for 00054-efc2ed68.tif: 612.1869829963235
+2025-10-08 19:05:36,920 - INFO - Saved aligned image: ./ECC_output/aligned_00055-336c7768.tif
+2025-10-08 19:05:36,921 - INFO - Mean Squared Error for 00055-336c7768.tif: 606.2823797487745
+2025-10-08 19:05:36,923 - INFO - Saved aligned image: ./ECC_output/aligned_00059-e7cc75af.tif
+2025-10-08 19:05:36,923 - INFO - Mean Squared Error for 00059-e7cc75af.tif: 550.9697457107843
+2025-10-08 19:05:36,925 - INFO - Saved aligned image: ./ECC_output/aligned_00061-b6337ee.tif
+2025-10-08 19:05:36,927 - INFO - Mean Squared Error for 00061-b6337ee.tif: 444.70222503063724
+2025-10-08 19:05:36,929 - INFO - Saved aligned image: ./ECC_output/aligned_00053-7e522b4e.tif
+2025-10-08 19:05:36,931 - INFO - Mean Squared Error for 00053-7e522b4e.tif: 452.7053462009804
+2025-10-08 19:05:36,933 - INFO - Saved aligned image: ./ECC_output/aligned_00057-750b186d.tif
+2025-10-08 19:05:36,935 - INFO - Mean Squared Error for 00057-750b186d.tif: 567.6007965686274
+2025-10-08 19:05:36,936 - INFO - Saved aligned image: ./ECC_output/aligned_00060-780a3258.tif
+2025-10-08 19:05:36,938 - INFO - Mean Squared Error for 00060-780a3258.tif: 650.1544500612745
+2025-10-08 19:05:36,939 - INFO - Saved aligned image: ./ECC_output/aligned_00058-326b9171.tif
+2025-10-08 19:05:36,941 - INFO - Mean Squared Error for 00058-326b9171.tif: 382.7174862132353
+2025-10-08 19:05:36,943 - INFO - Saved aligned image: ./ECC_output/aligned_00052-174b5f46.tif
+2025-10-08 19:05:36,944 - INFO - Mean Squared Error for 00052-174b5f46.tif: 369.7972196691176
+2025-10-08 19:05:36,944 - INFO - Saved aligned image: ./ECC_output/aligned_00062-983149ec.tif
+2025-10-08 19:05:36,946 - INFO - Mean Squared Error for 00062-983149ec.tif: 571.5061657475491
+2025-10-08 19:05:36,946 - INFO - Saved aligned image: ./ECC_output/aligned_00056-77c23fa8.tif
+2025-10-08 19:05:36,947 - INFO - Mean Squared Error for 00056-77c23fa8.tif: 395.5700635723039
+2025-10-08 19:05:36,947 - INFO - Saved aligned image: ./ECC_output/aligned_00069-9b734e50.tif
+2025-10-08 19:05:36,949 - INFO - Mean Squared Error for 00069-9b734e50.tif: 485.49128753063724
+2025-10-08 19:05:36,949 - INFO - Saved aligned image: ./ECC_output/aligned_00064-be278402.tif
+2025-10-08 19:05:36,949 - INFO - Mean Squared Error for 00064-be278402.tif: 557.4526079963235
+2025-10-08 19:05:36,950 - INFO - Saved aligned image: ./ECC_output/aligned_00065-5fa1a3ed.tif
+2025-10-08 19:05:36,950 - INFO - Mean Squared Error for 00065-5fa1a3ed.tif: 651.2582529105392
+2025-10-08 19:05:36,950 - INFO - Saved aligned image: ./ECC_output/aligned_00066-820c610b.tif
+2025-10-08 19:05:36,952 - INFO - Mean Squared Error for 00066-820c610b.tif: 474.5172526041667
+2025-10-08 19:05:36,952 - INFO - Saved aligned image: ./ECC_output/aligned_00063-a509a90.tif
+2025-10-08 19:05:36,954 - INFO - Mean Squared Error for 00063-a509a90.tif: 293.91812193627453
+2025-10-08 19:05:36,954 - INFO - Saved aligned image: ./ECC_output/aligned_00068-8872ada7.tif
+2025-10-08 19:05:36,954 - INFO - Mean Squared Error for 00068-8872ada7.tif: 403.8431946997549
+2025-10-08 19:05:36,955 - INFO - Saved aligned image: ./ECC_output/aligned_00070-e035cab2.tif
+2025-10-08 19:05:36,955 - INFO - Mean Squared Error for 00070-e035cab2.tif: 612.2984834558823
+2025-10-08 19:05:36,955 - INFO - Saved aligned image: ./ECC_output/aligned_00067-16a739bf.tif
+2025-10-08 19:05:36,957 - INFO - Mean Squared Error for 00067-16a739bf.tif: 437.9525888480392
+2025-10-08 19:05:36,957 - INFO - Saved aligned image: ./ECC_output/aligned_00071-a684a877.tif
+2025-10-08 19:05:36,959 - INFO - Mean Squared Error for 00071-a684a877.tif: 616.6749961703431
+2025-10-08 19:05:36,959 - INFO - Saved aligned image: ./ECC_output/aligned_00072-872474fb.tif
+2025-10-08 19:05:36,959 - INFO - Mean Squared Error for 00072-872474fb.tif: 406.09202665441177
+2025-10-08 19:05:36,960 - INFO - Saved aligned image: ./ECC_output/aligned_00083-c65ac97a.tif
+2025-10-08 19:05:36,960 - INFO - Mean Squared Error for 00083-c65ac97a.tif: 409.59982000612746
+2025-10-08 19:05:36,962 - INFO - Saved aligned image: ./ECC_output/aligned_00075-d8f5c231.tif
+2025-10-08 19:05:36,962 - INFO - Mean Squared Error for 00075-d8f5c231.tif: 637.5334137561274
+2025-10-08 19:05:36,963 - INFO - Saved aligned image: ./ECC_output/aligned_00076-44e02352.tif
+2025-10-08 19:05:36,963 - INFO - Mean Squared Error for 00076-44e02352.tif: 487.01187193627453
+2025-10-08 19:05:36,964 - INFO - Saved aligned image: ./ECC_output/aligned_00078-758be6c.tif
+2025-10-08 19:05:36,964 - INFO - Mean Squared Error for 00078-758be6c.tif: 328.77255667892155
+2025-10-08 19:05:36,964 - INFO - Saved aligned image: ./ECC_output/aligned_00079-7cd87f92.tif
+2025-10-08 19:05:36,966 - INFO - Mean Squared Error for 00079-7cd87f92.tif: 569.2636910232843
+2025-10-08 19:05:36,966 - INFO - Saved aligned image: ./ECC_output/aligned_00074-c02b170b.tif
+2025-10-08 19:05:36,967 - INFO - Mean Squared Error for 00074-c02b170b.tif: 380.61755131740193
+2025-10-08 19:05:36,967 - INFO - Saved aligned image: ./ECC_output/aligned_00080-a007793c.tif
+2025-10-08 19:05:36,969 - INFO - Mean Squared Error for 00080-a007793c.tif: 664.7737438725491
+2025-10-08 19:05:36,969 - INFO - Saved aligned image: ./ECC_output/aligned_00077-d51b27ae.tif
+2025-10-08 19:05:36,969 - INFO - Mean Squared Error for 00077-d51b27ae.tif: 482.3189146752451
+2025-10-08 19:05:36,970 - INFO - Saved aligned image: ./ECC_output/aligned_00081-45d5f81f.tif
+2025-10-08 19:05:36,970 - INFO - Mean Squared Error for 00081-45d5f81f.tif: 486.97506893382354
+2025-10-08 19:05:36,970 - INFO - Saved aligned image: ./ECC_output/aligned_00073-39683257.tif
+2025-10-08 19:05:36,972 - INFO - Mean Squared Error for 00073-39683257.tif: 488.0304074754902
+2025-10-08 19:05:36,972 - INFO - Saved aligned image: ./ECC_output/aligned_00084-13ee73ed.tif
+2025-10-08 19:05:36,972 - INFO - Mean Squared Error for 00084-13ee73ed.tif: 520.2454427083334
+2025-10-08 19:05:36,974 - INFO - Saved aligned image: ./ECC_output/aligned_00085-3d591e3.tif
+2025-10-08 19:05:36,974 - INFO - Mean Squared Error for 00085-3d591e3.tif: 638.3701363357843
+2025-10-08 19:05:36,975 - INFO - Saved aligned image: ./ECC_output/aligned_00086-64cdb12c.tif
+2025-10-08 19:05:36,975 - INFO - Mean Squared Error for 00086-64cdb12c.tif: 490.9475337009804
+2025-10-08 19:05:36,977 - INFO - Saved aligned image: ./ECC_output/aligned_00082-a4212ad3.tif
+2025-10-08 19:05:36,978 - INFO - Mean Squared Error for 00082-a4212ad3.tif: 462.3610791973039
+2025-10-08 19:05:36,978 - INFO - Saved aligned image: ./ECC_output/aligned_00088-57ce9128.tif
+2025-10-08 19:05:36,980 - INFO - Mean Squared Error for 00088-57ce9128.tif: 480.5137101715686
+2025-10-08 19:05:36,980 - INFO - Saved aligned image: ./ECC_output/aligned_00087-1ef86986.tif
+2025-10-08 19:05:36,981 - INFO - Mean Squared Error for 00087-1ef86986.tif: 477.179017310049
+2025-10-08 19:05:36,981 - INFO - Saved aligned image: ./ECC_output/aligned_00089-639a7b3a.tif
+2025-10-08 19:05:36,981 - INFO - Mean Squared Error for 00089-639a7b3a.tif: 450.1790939031863
+2025-10-08 19:05:36,983 - INFO - Saved aligned image: ./ECC_output/aligned_00090-d5473d74.tif
+2025-10-08 19:05:36,983 - INFO - Mean Squared Error for 00090-d5473d74.tif: 609.2694163602941
+2025-10-08 19:05:36,983 - INFO - Saved aligned image: ./ECC_output/aligned_00091-d2fb3a14.tif
+2025-10-08 19:05:36,984 - INFO - Mean Squared Error for 00091-d2fb3a14.tif: 508.7870519301471
+2025-10-08 19:05:36,984 - INFO - Saved aligned image: ./ECC_output/aligned_00094-5d62f2e8.tif
+2025-10-08 19:05:36,984 - INFO - Mean Squared Error for 00094-5d62f2e8.tif: 477.34744561887254
+2025-10-08 19:05:36,986 - INFO - Saved aligned image: ./ECC_output/aligned_00092-3afc035c.tif
+2025-10-08 19:05:36,987 - INFO - Mean Squared Error for 00092-3afc035c.tif: 584.4498123468137
+2025-10-08 19:05:36,987 - INFO - Saved aligned image: ./ECC_output/aligned_00095-9cc27bdd.tif
+2025-10-08 19:05:36,988 - INFO - Mean Squared Error for 00095-9cc27bdd.tif: 627.3289675245098
+2025-10-08 19:05:36,988 - INFO - Saved aligned image: ./ECC_output/aligned_00096-cd994d30.tif
+2025-10-08 19:05:36,988 - INFO - Mean Squared Error for 00096-cd994d30.tif: 583.5621170343137
+2025-10-08 19:05:36,990 - INFO - Saved aligned image: ./ECC_output/aligned_00093-29bc58da.tif
+2025-10-08 19:05:36,990 - INFO - Mean Squared Error for 00093-29bc58da.tif: 406.74337469362746
+2025-10-08 19:05:36,990 - INFO - Saved aligned image: ./ECC_output/aligned_00099-df333865.tif
+2025-10-08 19:05:36,991 - INFO - Mean Squared Error for 00099-df333865.tif: 436.8008386948529
+2025-10-08 19:05:36,991 - INFO - Saved aligned image: ./ECC_output/aligned_00097-b6a8cf77.tif
+2025-10-08 19:05:36,993 - INFO - Mean Squared Error for 00097-b6a8cf77.tif: 390.7509382659314
+2025-10-08 19:05:36,993 - INFO - Saved aligned image: ./ECC_output/aligned_00098-651ebfaf.tif
+2025-10-08 19:05:36,995 - INFO - Mean Squared Error for 00098-651ebfaf.tif: 663.9508846507352
+2025-10-08 19:05:36,995 - INFO - Saved aligned image: ./ECC_output/aligned_00100-98250e06.tif
+2025-10-08 19:05:36,995 - INFO - Mean Squared Error for 00100-98250e06.tif: 470.915345435049
+2025-10-08 19:05:37,496 - INFO - ECC registration completed!
+2025-10-08 19:05:37,496 - INFO - Starting second stage: B-spline registration...
+2025-10-08 19:05:37,501 - INFO - Found 100 images for B-spline registration
+2025-10-08 19:05:37,523 - INFO - Starting B-spline registration with 11 workers...
+2025-10-08 19:08:09,376 - INFO - Frame 0: Fixed image saved
+2025-10-08 19:08:09,376 - INFO - Frame 1: Registration completed
+2025-10-08 19:08:09,377 - INFO - Frame 2: Registration completed
+2025-10-08 19:08:09,378 - INFO - Frame 3: Registration completed
+2025-10-08 19:08:09,378 - INFO - Frame 4: Registration completed
+2025-10-08 19:08:09,378 - INFO - Frame 5: Registration completed
+2025-10-08 19:08:09,380 - INFO - Frame 6: Registration completed
+2025-10-08 19:08:09,380 - INFO - Frame 7: Registration completed
+2025-10-08 19:08:09,381 - INFO - Frame 8: Registration completed
+2025-10-08 19:08:09,381 - INFO - Frame 9: Registration completed
+2025-10-08 19:08:09,383 - INFO - Frame 10: Registration completed
+2025-10-08 19:08:09,384 - INFO - Frame 11: Registration completed
+2025-10-08 19:08:09,384 - INFO - Frame 12: Registration completed
+2025-10-08 19:08:09,385 - INFO - Frame 13: Registration completed
+2025-10-08 19:08:09,385 - INFO - Frame 14: Registration completed
+2025-10-08 19:08:09,385 - INFO - Frame 15: Registration completed
+2025-10-08 19:08:09,385 - INFO - Frame 16: Registration completed
+2025-10-08 19:08:09,387 - INFO - Frame 17: Registration completed
+2025-10-08 19:08:09,387 - INFO - Frame 18: Registration completed
+2025-10-08 19:08:09,387 - INFO - Frame 19: Registration completed
+2025-10-08 19:08:09,387 - INFO - Frame 20: Registration completed
+2025-10-08 19:08:09,388 - INFO - Frame 21: Registration completed
+2025-10-08 19:08:09,389 - INFO - Frame 22: Registration completed
+2025-10-08 19:08:09,390 - INFO - Frame 23: Registration completed
+2025-10-08 19:08:09,392 - INFO - Frame 24: Registration completed
+2025-10-08 19:08:09,393 - INFO - Frame 25: Registration completed
+2025-10-08 19:08:09,394 - INFO - Frame 26: Registration completed
+2025-10-08 19:08:09,394 - INFO - Frame 27: Registration completed
+2025-10-08 19:08:09,396 - INFO - Frame 28: Registration completed
+2025-10-08 19:08:09,396 - INFO - Frame 29: Registration completed
+2025-10-08 19:08:09,396 - INFO - Frame 30: Registration completed
+2025-10-08 19:08:09,397 - INFO - Frame 31: Registration completed
+2025-10-08 19:08:09,397 - INFO - Frame 32: Registration completed
+2025-10-08 19:08:09,397 - INFO - Frame 33: Registration completed
+2025-10-08 19:08:09,399 - INFO - Frame 34: Registration completed
+2025-10-08 19:08:09,399 - INFO - Frame 35: Registration completed
+2025-10-08 19:08:09,399 - INFO - Frame 36: Registration completed
+2025-10-08 19:08:09,400 - INFO - Frame 37: Registration completed
+2025-10-08 19:08:09,400 - INFO - Frame 38: Registration completed
+2025-10-08 19:08:09,401 - INFO - Frame 39: Registration completed
+2025-10-08 19:08:09,401 - INFO - Frame 40: Registration completed
+2025-10-08 19:08:09,403 - INFO - Frame 41: Registration completed
+2025-10-08 19:08:09,403 - INFO - Frame 42: Registration completed
+2025-10-08 19:08:09,404 - INFO - Frame 43: Registration completed
+2025-10-08 19:08:09,404 - INFO - Frame 44: Registration completed
+2025-10-08 19:08:09,405 - INFO - Frame 45: Registration completed
+2025-10-08 19:08:09,406 - INFO - Frame 46: Registration completed
+2025-10-08 19:08:09,407 - INFO - Frame 47: Registration completed
+2025-10-08 19:08:09,407 - INFO - Frame 48: Registration completed
+2025-10-08 19:08:09,408 - INFO - Frame 49: Registration completed
+2025-10-08 19:08:09,408 - INFO - Frame 50: Registration completed
+2025-10-08 19:08:09,409 - INFO - Frame 51: Registration completed
+2025-10-08 19:08:09,410 - INFO - Frame 52: Registration completed
+2025-10-08 19:08:09,411 - INFO - Frame 53: Registration completed
+2025-10-08 19:08:09,411 - INFO - Frame 54: Registration completed
+2025-10-08 19:08:09,412 - INFO - Frame 55: Registration completed
+2025-10-08 19:08:09,412 - INFO - Frame 56: Registration completed
+2025-10-08 19:08:09,414 - INFO - Frame 57: Registration completed
+2025-10-08 19:08:09,414 - INFO - Frame 58: Registration completed
+2025-10-08 19:08:09,415 - INFO - Frame 59: Registration completed
+2025-10-08 19:08:09,415 - INFO - Frame 60: Registration completed
+2025-10-08 19:08:09,416 - INFO - Frame 61: Registration completed
+2025-10-08 19:08:09,417 - INFO - Frame 62: Registration completed
+2025-10-08 19:08:09,418 - INFO - Frame 63: Registration completed
+2025-10-08 19:08:09,418 - INFO - Frame 64: Registration completed
+2025-10-08 19:08:09,419 - INFO - Frame 65: Registration completed
+2025-10-08 19:08:09,419 - INFO - Frame 66: Registration completed
+2025-10-08 19:08:09,420 - INFO - Frame 67: Registration completed
+2025-10-08 19:08:09,421 - INFO - Frame 68: Registration completed
+2025-10-08 19:08:09,422 - INFO - Frame 69: Registration completed
+2025-10-08 19:08:09,422 - INFO - Frame 70: Registration completed
+2025-10-08 19:08:09,423 - INFO - Frame 71: Registration completed
+2025-10-08 19:08:09,423 - INFO - Frame 72: Registration completed
+2025-10-08 19:08:09,424 - INFO - Frame 73: Registration completed
+2025-10-08 19:08:09,424 - INFO - Frame 74: Registration completed
+2025-10-08 19:08:09,426 - INFO - Frame 75: Registration completed
+2025-10-08 19:08:09,426 - INFO - Frame 76: Registration completed
+2025-10-08 19:08:09,427 - INFO - Frame 77: Registration completed
+2025-10-08 19:08:09,427 - INFO - Frame 78: Registration completed
+2025-10-08 19:08:09,428 - INFO - Frame 79: Registration completed
+2025-10-08 19:08:09,428 - INFO - Frame 80: Registration completed
+2025-10-08 19:08:09,428 - INFO - Frame 81: Registration completed
+2025-10-08 19:08:09,430 - INFO - Frame 82: Registration completed
+2025-10-08 19:08:09,430 - INFO - Frame 83: Registration completed
+2025-10-08 19:08:09,431 - INFO - Frame 84: Registration completed
+2025-10-08 19:08:09,432 - INFO - Frame 85: Registration completed
+2025-10-08 19:08:09,433 - INFO - Frame 86: Registration completed
+2025-10-08 19:08:09,433 - INFO - Frame 87: Registration completed
+2025-10-08 19:08:09,434 - INFO - Frame 88: Registration completed
+2025-10-08 19:08:09,434 - INFO - Frame 89: Registration completed
+2025-10-08 19:08:09,436 - INFO - Frame 90: Registration completed
+2025-10-08 19:08:09,436 - INFO - Frame 91: Registration completed
+2025-10-08 19:08:09,437 - INFO - Frame 92: Registration completed
+2025-10-08 19:08:09,437 - INFO - Frame 93: Registration completed
+2025-10-08 19:08:09,438 - INFO - Frame 94: Registration completed
+2025-10-08 19:08:09,439 - INFO - Frame 95: Registration completed
+2025-10-08 19:08:09,440 - INFO - Frame 96: Registration completed
+2025-10-08 19:08:09,440 - INFO - Frame 97: Registration completed
+2025-10-08 19:08:09,441 - INFO - Frame 98: Registration completed
+2025-10-08 19:08:09,441 - INFO - Frame 99: Registration completed
+2025-10-08 19:08:09,442 - INFO - B-spline registration completed!
+2025-10-08 19:08:09,444 - INFO - Two-stage registration completed!
+2025-10-08 19:30:29,574 - INFO - Starting first stage: ECC registration...
+2025-10-08 19:30:31,502 - INFO - User choice for preprocessing for ECC: n
+2025-10-08 19:30:31,503 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-08 19:30:31,505 - INFO - Using 11 parallel workers for ECC alignment
+2025-10-08 19:30:31,521 - INFO - Saved reference image: ./ECC_output/aligned_00001-2a7c9686.tif
+2025-10-08 19:30:31,521 - INFO - Processing 99 images for ECC alignment
+2025-10-08 19:30:31,521 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-08 19:31:13,393 - INFO - Saved aligned image: ./ECC_output/aligned_00012-d4dfd38f.tif
+2025-10-08 19:31:13,393 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-08 19:31:13,394 - INFO - Saved aligned image: ./ECC_output/aligned_00006-4eceef4d.tif
+2025-10-08 19:31:13,396 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-08 19:31:13,397 - INFO - Saved aligned image: ./ECC_output/aligned_00007-4a606178.tif
+2025-10-08 19:31:13,397 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-08 19:31:13,399 - INFO - Saved aligned image: ./ECC_output/aligned_00010-5644e032.tif
+2025-10-08 19:31:13,400 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-08 19:31:13,401 - INFO - Saved aligned image: ./ECC_output/aligned_00005-897e5091.tif
+2025-10-08 19:31:13,403 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-08 19:31:13,404 - INFO - Saved aligned image: ./ECC_output/aligned_00003-570d0074.tif
+2025-10-08 19:31:13,405 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-08 19:31:13,407 - INFO - Saved aligned image: ./ECC_output/aligned_00009-d44859eb.tif
+2025-10-08 19:31:13,408 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-08 19:31:13,409 - INFO - Saved aligned image: ./ECC_output/aligned_00002-95cdc696.tif
+2025-10-08 19:31:13,411 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-08 19:31:13,412 - INFO - Saved aligned image: ./ECC_output/aligned_00004-ca974273.tif
+2025-10-08 19:31:13,413 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-08 19:31:13,415 - INFO - Saved aligned image: ./ECC_output/aligned_00008-8cdeb968.tif
+2025-10-08 19:31:13,415 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-08 19:31:13,416 - INFO - Saved aligned image: ./ECC_output/aligned_00011-c2649c60.tif
+2025-10-08 19:31:13,416 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-08 19:31:13,417 - INFO - Saved aligned image: ./ECC_output/aligned_00013-bec21585.tif
+2025-10-08 19:31:13,418 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-08 19:31:13,419 - INFO - Saved aligned image: ./ECC_output/aligned_00014-f6b93706.tif
+2025-10-08 19:31:13,419 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-08 19:31:13,420 - INFO - Saved aligned image: ./ECC_output/aligned_00016-d921c5ae.tif
+2025-10-08 19:31:13,420 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-08 19:31:13,421 - INFO - Saved aligned image: ./ECC_output/aligned_00015-7cc2e54.tif
+2025-10-08 19:31:13,422 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-08 19:31:13,423 - INFO - Saved aligned image: ./ECC_output/aligned_00020-5c6536bb.tif
+2025-10-08 19:31:13,423 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-08 19:31:13,424 - INFO - Saved aligned image: ./ECC_output/aligned_00017-395951dd.tif
+2025-10-08 19:31:13,424 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-08 19:31:13,425 - INFO - Saved aligned image: ./ECC_output/aligned_00018-dacf634.tif
+2025-10-08 19:31:13,425 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-08 19:31:13,426 - INFO - Saved aligned image: ./ECC_output/aligned_00019-86a3aace.tif
+2025-10-08 19:31:13,426 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-08 19:31:13,427 - INFO - Saved aligned image: ./ECC_output/aligned_00022-f17bc0f.tif
+2025-10-08 19:31:13,428 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-08 19:31:13,428 - INFO - Saved aligned image: ./ECC_output/aligned_00024-63e1dad3.tif
+2025-10-08 19:31:13,429 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-08 19:31:13,430 - INFO - Saved aligned image: ./ECC_output/aligned_00023-bc8246b5.tif
+2025-10-08 19:31:13,431 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-08 19:31:13,431 - INFO - Saved aligned image: ./ECC_output/aligned_00026-6ef05eb8.tif
+2025-10-08 19:31:13,432 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-08 19:31:13,432 - INFO - Saved aligned image: ./ECC_output/aligned_00021-d96c06dd.tif
+2025-10-08 19:31:13,433 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-08 19:31:13,433 - INFO - Saved aligned image: ./ECC_output/aligned_00025-7ec122bc.tif
+2025-10-08 19:31:13,434 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-08 19:31:13,434 - INFO - Saved aligned image: ./ECC_output/aligned_00027-35f34ee5.tif
+2025-10-08 19:31:13,435 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-08 19:31:13,435 - INFO - Saved aligned image: ./ECC_output/aligned_00028-50a82ee7.tif
+2025-10-08 19:31:13,438 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-08 19:31:13,439 - INFO - Saved aligned image: ./ECC_output/aligned_00031-eb7058b.tif
+2025-10-08 19:31:13,439 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-08 19:31:13,440 - INFO - Saved aligned image: ./ECC_output/aligned_00030-7312ecad.tif
+2025-10-08 19:31:13,440 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-08 19:31:13,442 - INFO - Saved aligned image: ./ECC_output/aligned_00032-8d386c59.tif
+2025-10-08 19:31:13,443 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-08 19:31:13,443 - INFO - Saved aligned image: ./ECC_output/aligned_00033-d906248.tif
+2025-10-08 19:31:13,444 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-08 19:31:13,444 - INFO - Saved aligned image: ./ECC_output/aligned_00034-85938335.tif
+2025-10-08 19:31:13,445 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-08 19:31:13,447 - INFO - Saved aligned image: ./ECC_output/aligned_00029-f492f701.tif
+2025-10-08 19:31:13,449 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-08 19:31:13,449 - INFO - Saved aligned image: ./ECC_output/aligned_00035-3da70e49.tif
+2025-10-08 19:31:13,449 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-08 19:31:13,450 - INFO - Saved aligned image: ./ECC_output/aligned_00037-9ec66cca.tif
+2025-10-08 19:31:13,450 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-08 19:31:13,450 - INFO - Saved aligned image: ./ECC_output/aligned_00038-f20090a7.tif
+2025-10-08 19:31:13,451 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-08 19:31:13,451 - INFO - Saved aligned image: ./ECC_output/aligned_00039-ca6089a6.tif
+2025-10-08 19:31:13,452 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-08 19:31:13,452 - INFO - Saved aligned image: ./ECC_output/aligned_00040-35e343e8.tif
+2025-10-08 19:31:13,454 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-08 19:31:13,455 - INFO - Saved aligned image: ./ECC_output/aligned_00041-8f258615.tif
+2025-10-08 19:31:13,455 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-08 19:31:13,455 - INFO - Saved aligned image: ./ECC_output/aligned_00042-3325c229.tif
+2025-10-08 19:31:13,456 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-08 19:31:13,456 - INFO - Saved aligned image: ./ECC_output/aligned_00036-57955b6f.tif
+2025-10-08 19:31:13,457 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-08 19:31:13,457 - INFO - Saved aligned image: ./ECC_output/aligned_00043-fb9c5dfc.tif
+2025-10-08 19:31:13,457 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-08 19:31:13,457 - INFO - Saved aligned image: ./ECC_output/aligned_00044-943a0bd2.tif
+2025-10-08 19:31:13,458 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-08 19:31:13,458 - INFO - Saved aligned image: ./ECC_output/aligned_00046-699be951.tif
+2025-10-08 19:31:13,460 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-08 19:31:13,460 - INFO - Saved aligned image: ./ECC_output/aligned_00047-13b10311.tif
+2025-10-08 19:31:13,461 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-08 19:31:13,461 - INFO - Saved aligned image: ./ECC_output/aligned_00048-87d3e668.tif
+2025-10-08 19:31:13,462 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-08 19:31:13,463 - INFO - Saved aligned image: ./ECC_output/aligned_00049-f025c6e6.tif
+2025-10-08 19:31:13,465 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-08 19:31:13,465 - INFO - Saved aligned image: ./ECC_output/aligned_00045-dafd8b1.tif
+2025-10-08 19:31:13,466 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-08 19:31:13,466 - INFO - Saved aligned image: ./ECC_output/aligned_00050-b32ba3cf.tif
+2025-10-08 19:31:13,466 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-08 19:31:13,467 - INFO - Saved aligned image: ./ECC_output/aligned_00051-d9f9a9d9.tif
+2025-10-08 19:31:13,467 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-08 19:31:13,969 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-08 19:31:59,348 - INFO - Saved aligned image: ./ECC_output/aligned_00054-efc2ed68.tif
+2025-10-08 19:31:59,348 - INFO - Mean Squared Error for 00054-efc2ed68.tif: 612.1869829963235
+2025-10-08 19:31:59,348 - INFO - Saved aligned image: ./ECC_output/aligned_00059-e7cc75af.tif
+2025-10-08 19:31:59,348 - INFO - Mean Squared Error for 00059-e7cc75af.tif: 550.9697457107843
+2025-10-08 19:31:59,348 - INFO - Saved aligned image: ./ECC_output/aligned_00062-983149ec.tif
+2025-10-08 19:31:59,348 - INFO - Mean Squared Error for 00062-983149ec.tif: 571.5061657475491
+2025-10-08 19:31:59,348 - INFO - Saved aligned image: ./ECC_output/aligned_00056-77c23fa8.tif
+2025-10-08 19:31:59,348 - INFO - Mean Squared Error for 00056-77c23fa8.tif: 395.5700635723039
+2025-10-08 19:31:59,348 - INFO - Saved aligned image: ./ECC_output/aligned_00058-326b9171.tif
+2025-10-08 19:31:59,349 - INFO - Mean Squared Error for 00058-326b9171.tif: 382.7174862132353
+2025-10-08 19:31:59,349 - INFO - Saved aligned image: ./ECC_output/aligned_00053-7e522b4e.tif
+2025-10-08 19:31:59,349 - INFO - Mean Squared Error for 00053-7e522b4e.tif: 452.7053462009804
+2025-10-08 19:31:59,349 - INFO - Saved aligned image: ./ECC_output/aligned_00055-336c7768.tif
+2025-10-08 19:31:59,349 - INFO - Mean Squared Error for 00055-336c7768.tif: 606.2823797487745
+2025-10-08 19:31:59,349 - INFO - Saved aligned image: ./ECC_output/aligned_00057-750b186d.tif
+2025-10-08 19:31:59,349 - INFO - Mean Squared Error for 00057-750b186d.tif: 567.6007965686274
+2025-10-08 19:31:59,349 - INFO - Saved aligned image: ./ECC_output/aligned_00060-780a3258.tif
+2025-10-08 19:31:59,351 - INFO - Mean Squared Error for 00060-780a3258.tif: 650.1544500612745
+2025-10-08 19:31:59,351 - INFO - Saved aligned image: ./ECC_output/aligned_00061-b6337ee.tif
+2025-10-08 19:31:59,351 - INFO - Mean Squared Error for 00061-b6337ee.tif: 444.70222503063724
+2025-10-08 19:31:59,351 - INFO - Saved aligned image: ./ECC_output/aligned_00052-174b5f46.tif
+2025-10-08 19:31:59,351 - INFO - Mean Squared Error for 00052-174b5f46.tif: 369.7972196691176
+2025-10-08 19:31:59,351 - INFO - Saved aligned image: ./ECC_output/aligned_00069-9b734e50.tif
+2025-10-08 19:31:59,351 - INFO - Mean Squared Error for 00069-9b734e50.tif: 485.49128753063724
+2025-10-08 19:31:59,352 - INFO - Saved aligned image: ./ECC_output/aligned_00063-a509a90.tif
+2025-10-08 19:31:59,352 - INFO - Mean Squared Error for 00063-a509a90.tif: 293.91812193627453
+2025-10-08 19:31:59,352 - INFO - Saved aligned image: ./ECC_output/aligned_00065-5fa1a3ed.tif
+2025-10-08 19:31:59,353 - INFO - Mean Squared Error for 00065-5fa1a3ed.tif: 651.2582529105392
+2025-10-08 19:31:59,354 - INFO - Saved aligned image: ./ECC_output/aligned_00067-16a739bf.tif
+2025-10-08 19:31:59,354 - INFO - Mean Squared Error for 00067-16a739bf.tif: 437.9525888480392
+2025-10-08 19:31:59,354 - INFO - Saved aligned image: ./ECC_output/aligned_00068-8872ada7.tif
+2025-10-08 19:31:59,354 - INFO - Mean Squared Error for 00068-8872ada7.tif: 403.8431946997549
+2025-10-08 19:31:59,354 - INFO - Saved aligned image: ./ECC_output/aligned_00064-be278402.tif
+2025-10-08 19:31:59,354 - INFO - Mean Squared Error for 00064-be278402.tif: 557.4526079963235
+2025-10-08 19:31:59,354 - INFO - Saved aligned image: ./ECC_output/aligned_00071-a684a877.tif
+2025-10-08 19:31:59,354 - INFO - Mean Squared Error for 00071-a684a877.tif: 616.6749961703431
+2025-10-08 19:31:59,354 - INFO - Saved aligned image: ./ECC_output/aligned_00070-e035cab2.tif
+2025-10-08 19:31:59,354 - INFO - Mean Squared Error for 00070-e035cab2.tif: 612.2984834558823
+2025-10-08 19:31:59,356 - INFO - Saved aligned image: ./ECC_output/aligned_00072-872474fb.tif
+2025-10-08 19:31:59,356 - INFO - Mean Squared Error for 00072-872474fb.tif: 406.09202665441177
+2025-10-08 19:31:59,357 - INFO - Saved aligned image: ./ECC_output/aligned_00066-820c610b.tif
+2025-10-08 19:31:59,357 - INFO - Mean Squared Error for 00066-820c610b.tif: 474.5172526041667
+2025-10-08 19:31:59,358 - INFO - Saved aligned image: ./ECC_output/aligned_00074-c02b170b.tif
+2025-10-08 19:31:59,358 - INFO - Mean Squared Error for 00074-c02b170b.tif: 380.61755131740193
+2025-10-08 19:31:59,358 - INFO - Saved aligned image: ./ECC_output/aligned_00075-d8f5c231.tif
+2025-10-08 19:31:59,360 - INFO - Mean Squared Error for 00075-d8f5c231.tif: 637.5334137561274
+2025-10-08 19:31:59,360 - INFO - Saved aligned image: ./ECC_output/aligned_00076-44e02352.tif
+2025-10-08 19:31:59,360 - INFO - Mean Squared Error for 00076-44e02352.tif: 487.01187193627453
+2025-10-08 19:31:59,361 - INFO - Saved aligned image: ./ECC_output/aligned_00079-7cd87f92.tif
+2025-10-08 19:31:59,361 - INFO - Mean Squared Error for 00079-7cd87f92.tif: 569.2636910232843
+2025-10-08 19:31:59,361 - INFO - Saved aligned image: ./ECC_output/aligned_00078-758be6c.tif
+2025-10-08 19:31:59,362 - INFO - Mean Squared Error for 00078-758be6c.tif: 328.77255667892155
+2025-10-08 19:31:59,362 - INFO - Saved aligned image: ./ECC_output/aligned_00083-c65ac97a.tif
+2025-10-08 19:31:59,363 - INFO - Mean Squared Error for 00083-c65ac97a.tif: 409.59982000612746
+2025-10-08 19:31:59,363 - INFO - Saved aligned image: ./ECC_output/aligned_00080-a007793c.tif
+2025-10-08 19:31:59,363 - INFO - Mean Squared Error for 00080-a007793c.tif: 664.7737438725491
+2025-10-08 19:31:59,365 - INFO - Saved aligned image: ./ECC_output/aligned_00077-d51b27ae.tif
+2025-10-08 19:31:59,365 - INFO - Mean Squared Error for 00077-d51b27ae.tif: 482.3189146752451
+2025-10-08 19:31:59,365 - INFO - Saved aligned image: ./ECC_output/aligned_00081-45d5f81f.tif
+2025-10-08 19:31:59,366 - INFO - Mean Squared Error for 00081-45d5f81f.tif: 486.97506893382354
+2025-10-08 19:31:59,366 - INFO - Saved aligned image: ./ECC_output/aligned_00082-a4212ad3.tif
+2025-10-08 19:31:59,366 - INFO - Mean Squared Error for 00082-a4212ad3.tif: 462.3610791973039
+2025-10-08 19:31:59,367 - INFO - Saved aligned image: ./ECC_output/aligned_00073-39683257.tif
+2025-10-08 19:31:59,367 - INFO - Mean Squared Error for 00073-39683257.tif: 488.0304074754902
+2025-10-08 19:31:59,367 - INFO - Saved aligned image: ./ECC_output/aligned_00085-3d591e3.tif
+2025-10-08 19:31:59,367 - INFO - Mean Squared Error for 00085-3d591e3.tif: 638.3701363357843
+2025-10-08 19:31:59,368 - INFO - Saved aligned image: ./ECC_output/aligned_00086-64cdb12c.tif
+2025-10-08 19:31:59,368 - INFO - Mean Squared Error for 00086-64cdb12c.tif: 490.9475337009804
+2025-10-08 19:31:59,368 - INFO - Saved aligned image: ./ECC_output/aligned_00084-13ee73ed.tif
+2025-10-08 19:31:59,370 - INFO - Mean Squared Error for 00084-13ee73ed.tif: 520.2454427083334
+2025-10-08 19:31:59,370 - INFO - Saved aligned image: ./ECC_output/aligned_00087-1ef86986.tif
+2025-10-08 19:31:59,370 - INFO - Mean Squared Error for 00087-1ef86986.tif: 477.179017310049
+2025-10-08 19:31:59,370 - INFO - Saved aligned image: ./ECC_output/aligned_00088-57ce9128.tif
+2025-10-08 19:31:59,371 - INFO - Mean Squared Error for 00088-57ce9128.tif: 480.5137101715686
+2025-10-08 19:31:59,371 - INFO - Saved aligned image: ./ECC_output/aligned_00089-639a7b3a.tif
+2025-10-08 19:31:59,371 - INFO - Mean Squared Error for 00089-639a7b3a.tif: 450.1790939031863
+2025-10-08 19:31:59,372 - INFO - Saved aligned image: ./ECC_output/aligned_00090-d5473d74.tif
+2025-10-08 19:31:59,372 - INFO - Mean Squared Error for 00090-d5473d74.tif: 609.2694163602941
+2025-10-08 19:31:59,372 - INFO - Saved aligned image: ./ECC_output/aligned_00091-d2fb3a14.tif
+2025-10-08 19:31:59,372 - INFO - Mean Squared Error for 00091-d2fb3a14.tif: 508.7870519301471
+2025-10-08 19:31:59,373 - INFO - Saved aligned image: ./ECC_output/aligned_00093-29bc58da.tif
+2025-10-08 19:31:59,375 - INFO - Mean Squared Error for 00093-29bc58da.tif: 406.74337469362746
+2025-10-08 19:31:59,375 - INFO - Saved aligned image: ./ECC_output/aligned_00092-3afc035c.tif
+2025-10-08 19:31:59,375 - INFO - Mean Squared Error for 00092-3afc035c.tif: 584.4498123468137
+2025-10-08 19:31:59,376 - INFO - Saved aligned image: ./ECC_output/aligned_00095-9cc27bdd.tif
+2025-10-08 19:31:59,376 - INFO - Mean Squared Error for 00095-9cc27bdd.tif: 627.3289675245098
+2025-10-08 19:31:59,376 - INFO - Saved aligned image: ./ECC_output/aligned_00096-cd994d30.tif
+2025-10-08 19:31:59,376 - INFO - Mean Squared Error for 00096-cd994d30.tif: 583.5621170343137
+2025-10-08 19:31:59,377 - INFO - Saved aligned image: ./ECC_output/aligned_00094-5d62f2e8.tif
+2025-10-08 19:31:59,377 - INFO - Mean Squared Error for 00094-5d62f2e8.tif: 477.34744561887254
+2025-10-08 19:31:59,378 - INFO - Saved aligned image: ./ECC_output/aligned_00097-b6a8cf77.tif
+2025-10-08 19:31:59,378 - INFO - Mean Squared Error for 00097-b6a8cf77.tif: 390.7509382659314
+2025-10-08 19:31:59,378 - INFO - Saved aligned image: ./ECC_output/aligned_00098-651ebfaf.tif
+2025-10-08 19:31:59,379 - INFO - Mean Squared Error for 00098-651ebfaf.tif: 663.9508846507352
+2025-10-08 19:31:59,379 - INFO - Saved aligned image: ./ECC_output/aligned_00100-98250e06.tif
+2025-10-08 19:31:59,380 - INFO - Mean Squared Error for 00100-98250e06.tif: 470.915345435049
+2025-10-08 19:31:59,381 - INFO - Saved aligned image: ./ECC_output/aligned_00099-df333865.tif
+2025-10-08 19:31:59,381 - INFO - Mean Squared Error for 00099-df333865.tif: 436.8008386948529
+2025-10-08 19:31:59,881 - INFO - ECC registration completed!
+2025-10-08 19:31:59,881 - INFO - Starting second stage: B-spline registration...
+2025-10-08 19:31:59,883 - INFO - Found 100 images for B-spline registration
+2025-10-08 19:31:59,900 - INFO - Starting B-spline registration with 11 workers...
+2025-10-08 19:34:28,537 - INFO - Frame 0: Fixed image saved
+2025-10-08 19:34:28,537 - INFO - Frame 1: Registration completed
+2025-10-08 19:34:28,537 - INFO - Frame 2: Registration completed
+2025-10-08 19:34:28,537 - INFO - Frame 3: Registration completed
+2025-10-08 19:34:28,537 - INFO - Frame 4: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 5: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 6: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 7: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 8: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 9: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 10: Registration completed
+2025-10-08 19:34:28,538 - INFO - Frame 11: Registration completed
+2025-10-08 19:34:28,539 - INFO - Frame 12: Registration completed
+2025-10-08 19:34:28,541 - INFO - Frame 13: Registration completed
+2025-10-08 19:34:28,542 - INFO - Frame 14: Registration completed
+2025-10-08 19:34:28,542 - INFO - Frame 15: Registration completed
+2025-10-08 19:34:28,542 - INFO - Frame 16: Registration completed
+2025-10-08 19:34:28,543 - INFO - Frame 17: Registration completed
+2025-10-08 19:34:28,543 - INFO - Frame 18: Registration completed
+2025-10-08 19:34:28,543 - INFO - Frame 19: Registration completed
+2025-10-08 19:34:28,545 - INFO - Frame 20: Registration completed
+2025-10-08 19:34:28,545 - INFO - Frame 21: Registration completed
+2025-10-08 19:34:28,545 - INFO - Frame 22: Registration completed
+2025-10-08 19:34:28,546 - INFO - Frame 23: Registration completed
+2025-10-08 19:34:28,548 - INFO - Frame 24: Registration completed
+2025-10-08 19:34:28,548 - INFO - Frame 25: Registration completed
+2025-10-08 19:34:28,548 - INFO - Frame 26: Registration completed
+2025-10-08 19:34:28,549 - INFO - Frame 27: Registration completed
+2025-10-08 19:34:28,549 - INFO - Frame 28: Registration completed
+2025-10-08 19:34:28,551 - INFO - Frame 29: Registration completed
+2025-10-08 19:34:28,553 - INFO - Frame 30: Registration completed
+2025-10-08 19:34:28,553 - INFO - Frame 31: Registration completed
+2025-10-08 19:34:28,553 - INFO - Frame 32: Registration completed
+2025-10-08 19:34:28,554 - INFO - Frame 33: Registration completed
+2025-10-08 19:34:28,554 - INFO - Frame 34: Registration completed
+2025-10-08 19:34:28,554 - INFO - Frame 35: Registration completed
+2025-10-08 19:34:28,556 - INFO - Frame 36: Registration completed
+2025-10-08 19:34:28,556 - INFO - Frame 37: Registration completed
+2025-10-08 19:34:28,556 - INFO - Frame 38: Registration completed
+2025-10-08 19:34:28,557 - INFO - Frame 39: Registration completed
+2025-10-08 19:34:28,557 - INFO - Frame 40: Registration completed
+2025-10-08 19:34:28,557 - INFO - Frame 41: Registration completed
+2025-10-08 19:34:28,559 - INFO - Frame 42: Registration completed
+2025-10-08 19:34:28,559 - INFO - Frame 43: Registration completed
+2025-10-08 19:34:28,560 - INFO - Frame 44: Registration completed
+2025-10-08 19:34:28,560 - INFO - Frame 45: Registration completed
+2025-10-08 19:34:28,560 - INFO - Frame 46: Registration completed
+2025-10-08 19:34:28,561 - INFO - Frame 47: Registration completed
+2025-10-08 19:34:28,561 - INFO - Frame 48: Registration completed
+2025-10-08 19:34:28,561 - INFO - Frame 49: Registration completed
+2025-10-08 19:34:28,563 - INFO - Frame 50: Registration completed
+2025-10-08 19:34:28,563 - INFO - Frame 51: Registration completed
+2025-10-08 19:34:28,565 - INFO - Frame 52: Registration completed
+2025-10-08 19:34:28,565 - INFO - Frame 53: Registration completed
+2025-10-08 19:34:28,565 - INFO - Frame 54: Registration completed
+2025-10-08 19:34:28,566 - INFO - Frame 55: Registration completed
+2025-10-08 19:34:28,566 - INFO - Frame 56: Registration completed
+2025-10-08 19:34:28,566 - INFO - Frame 57: Registration completed
+2025-10-08 19:34:28,568 - INFO - Frame 58: Registration completed
+2025-10-08 19:34:28,568 - INFO - Frame 59: Registration completed
+2025-10-08 19:34:28,568 - INFO - Frame 60: Registration completed
+2025-10-08 19:34:28,569 - INFO - Frame 61: Registration completed
+2025-10-08 19:34:28,569 - INFO - Frame 62: Registration completed
+2025-10-08 19:34:28,569 - INFO - Frame 63: Registration completed
+2025-10-08 19:34:28,570 - INFO - Frame 64: Registration completed
+2025-10-08 19:34:28,570 - INFO - Frame 65: Registration completed
+2025-10-08 19:34:28,572 - INFO - Frame 66: Registration completed
+2025-10-08 19:34:28,572 - INFO - Frame 67: Registration completed
+2025-10-08 19:34:28,572 - INFO - Frame 68: Registration completed
+2025-10-08 19:34:28,573 - INFO - Frame 69: Registration completed
+2025-10-08 19:34:28,574 - INFO - Frame 70: Registration completed
+2025-10-08 19:34:28,574 - INFO - Frame 71: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 72: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 73: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 74: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 75: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 76: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 77: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 78: Registration completed
+2025-10-08 19:34:28,575 - INFO - Frame 79: Registration completed
+2025-10-08 19:34:28,577 - INFO - Frame 80: Registration completed
+2025-10-08 19:34:28,577 - INFO - Frame 81: Registration completed
+2025-10-08 19:34:28,577 - INFO - Frame 82: Registration completed
+2025-10-08 19:34:28,578 - INFO - Frame 83: Registration completed
+2025-10-08 19:34:28,578 - INFO - Frame 84: Registration completed
+2025-10-08 19:34:28,578 - INFO - Frame 85: Registration completed
+2025-10-08 19:34:28,580 - INFO - Frame 86: Registration completed
+2025-10-08 19:34:28,581 - INFO - Frame 87: Registration completed
+2025-10-08 19:34:28,581 - INFO - Frame 88: Registration completed
+2025-10-08 19:34:28,581 - INFO - Frame 89: Registration completed
+2025-10-08 19:34:28,582 - INFO - Frame 90: Registration completed
+2025-10-08 19:34:28,582 - INFO - Frame 91: Registration completed
+2025-10-08 19:34:28,582 - INFO - Frame 92: Registration completed
+2025-10-08 19:34:28,584 - INFO - Frame 93: Registration completed
+2025-10-08 19:34:28,585 - INFO - Frame 94: Registration completed
+2025-10-08 19:34:28,587 - INFO - Frame 95: Registration completed
+2025-10-08 19:34:28,587 - INFO - Frame 96: Registration completed
+2025-10-08 19:34:28,587 - INFO - Frame 97: Registration completed
+2025-10-08 19:34:28,588 - INFO - Frame 98: Registration completed
+2025-10-08 19:34:28,588 - INFO - Frame 99: Registration completed
+2025-10-08 19:34:28,588 - INFO - B-spline registration completed!
+2025-10-08 19:34:28,589 - INFO - Two-stage registration completed!
+2025-10-08 19:53:31,690 - INFO - Starting first stage: ECC registration...
+2025-10-08 19:53:33,914 - INFO - User choice for preprocessing for ECC: n
+2025-10-08 19:53:33,914 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-08 19:53:33,916 - INFO - Using 11 parallel workers for ECC alignment
+2025-10-08 19:53:33,927 - INFO - Saved reference image: ./ECC_output/aligned_00001-2a7c9686.tif
+2025-10-08 19:53:33,927 - INFO - Processing 99 images for ECC alignment
+2025-10-08 19:53:33,927 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00012-d4dfd38f.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00007-4a606178.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00008-8cdeb968.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00011-c2649c60.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00002-95cdc696.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00005-897e5091.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00003-570d0074.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00009-d44859eb.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-08 19:54:15,952 - INFO - Saved aligned image: ./ECC_output/aligned_00010-5644e032.tif
+2025-10-08 19:54:15,952 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00004-ca974273.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00013-bec21585.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00006-4eceef4d.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00014-f6b93706.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00016-d921c5ae.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00017-395951dd.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-08 19:54:15,954 - INFO - Saved aligned image: ./ECC_output/aligned_00018-dacf634.tif
+2025-10-08 19:54:15,954 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-08 19:54:15,955 - INFO - Saved aligned image: ./ECC_output/aligned_00020-5c6536bb.tif
+2025-10-08 19:54:15,955 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-08 19:54:15,955 - INFO - Saved aligned image: ./ECC_output/aligned_00021-d96c06dd.tif
+2025-10-08 19:54:15,955 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-08 19:54:15,955 - INFO - Saved aligned image: ./ECC_output/aligned_00015-7cc2e54.tif
+2025-10-08 19:54:15,955 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-08 19:54:15,955 - INFO - Saved aligned image: ./ECC_output/aligned_00022-f17bc0f.tif
+2025-10-08 19:54:15,955 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-08 19:54:15,955 - INFO - Saved aligned image: ./ECC_output/aligned_00023-bc8246b5.tif
+2025-10-08 19:54:15,955 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-08 19:54:15,956 - INFO - Saved aligned image: ./ECC_output/aligned_00019-86a3aace.tif
+2025-10-08 19:54:15,956 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-08 19:54:15,956 - INFO - Saved aligned image: ./ECC_output/aligned_00025-7ec122bc.tif
+2025-10-08 19:54:15,956 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-08 19:54:15,956 - INFO - Saved aligned image: ./ECC_output/aligned_00026-6ef05eb8.tif
+2025-10-08 19:54:15,956 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-08 19:54:15,956 - INFO - Saved aligned image: ./ECC_output/aligned_00027-35f34ee5.tif
+2025-10-08 19:54:15,956 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-08 19:54:15,956 - INFO - Saved aligned image: ./ECC_output/aligned_00029-f492f701.tif
+2025-10-08 19:54:15,956 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00030-7312ecad.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00028-50a82ee7.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00031-eb7058b.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00032-8d386c59.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00024-63e1dad3.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00033-d906248.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00035-3da70e49.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00037-9ec66cca.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00036-57955b6f.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-08 19:54:15,957 - INFO - Saved aligned image: ./ECC_output/aligned_00038-f20090a7.tif
+2025-10-08 19:54:15,957 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00039-ca6089a6.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00041-8f258615.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00042-3325c229.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00034-85938335.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00040-35e343e8.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00044-943a0bd2.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00045-dafd8b1.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00046-699be951.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00043-fb9c5dfc.tif
+2025-10-08 19:54:15,959 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-08 19:54:15,959 - INFO - Saved aligned image: ./ECC_output/aligned_00047-13b10311.tif
+2025-10-08 19:54:15,960 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-08 19:54:15,960 - INFO - Saved aligned image: ./ECC_output/aligned_00048-87d3e668.tif
+2025-10-08 19:54:15,960 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-08 19:54:15,960 - INFO - Saved aligned image: ./ECC_output/aligned_00050-b32ba3cf.tif
+2025-10-08 19:54:15,960 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-08 19:54:15,960 - INFO - Saved aligned image: ./ECC_output/aligned_00049-f025c6e6.tif
+2025-10-08 19:54:15,960 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-08 19:54:15,960 - INFO - Saved aligned image: ./ECC_output/aligned_00051-d9f9a9d9.tif
+2025-10-08 19:54:15,960 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-08 19:54:16,461 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-08 19:55:03,695 - INFO - Saved aligned image: ./ECC_output/aligned_00054-efc2ed68.tif
+2025-10-08 19:55:03,695 - INFO - Mean Squared Error for 00054-efc2ed68.tif: 612.1869829963235
+2025-10-08 19:55:03,695 - INFO - Saved aligned image: ./ECC_output/aligned_00052-174b5f46.tif
+2025-10-08 19:55:03,695 - INFO - Mean Squared Error for 00052-174b5f46.tif: 369.7972196691176
+2025-10-08 19:55:03,695 - INFO - Saved aligned image: ./ECC_output/aligned_00058-326b9171.tif
+2025-10-08 19:55:03,696 - INFO - Mean Squared Error for 00058-326b9171.tif: 382.7174862132353
+2025-10-08 19:55:03,698 - INFO - Saved aligned image: ./ECC_output/aligned_00056-77c23fa8.tif
+2025-10-08 19:55:03,699 - INFO - Mean Squared Error for 00056-77c23fa8.tif: 395.5700635723039
+2025-10-08 19:55:03,699 - INFO - Saved aligned image: ./ECC_output/aligned_00061-b6337ee.tif
+2025-10-08 19:55:03,699 - INFO - Mean Squared Error for 00061-b6337ee.tif: 444.70222503063724
+2025-10-08 19:55:03,701 - INFO - Saved aligned image: ./ECC_output/aligned_00055-336c7768.tif
+2025-10-08 19:55:03,701 - INFO - Mean Squared Error for 00055-336c7768.tif: 606.2823797487745
+2025-10-08 19:55:03,701 - INFO - Saved aligned image: ./ECC_output/aligned_00059-e7cc75af.tif
+2025-10-08 19:55:03,702 - INFO - Mean Squared Error for 00059-e7cc75af.tif: 550.9697457107843
+2025-10-08 19:55:03,702 - INFO - Saved aligned image: ./ECC_output/aligned_00060-780a3258.tif
+2025-10-08 19:55:03,702 - INFO - Mean Squared Error for 00060-780a3258.tif: 650.1544500612745
+2025-10-08 19:55:03,703 - INFO - Saved aligned image: ./ECC_output/aligned_00053-7e522b4e.tif
+2025-10-08 19:55:03,703 - INFO - Mean Squared Error for 00053-7e522b4e.tif: 452.7053462009804
+2025-10-08 19:55:03,703 - INFO - Saved aligned image: ./ECC_output/aligned_00062-983149ec.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00062-983149ec.tif: 571.5061657475491
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00057-750b186d.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00057-750b186d.tif: 567.6007965686274
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00069-9b734e50.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00069-9b734e50.tif: 485.49128753063724
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00063-a509a90.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00063-a509a90.tif: 293.91812193627453
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00064-be278402.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00064-be278402.tif: 557.4526079963235
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00065-5fa1a3ed.tif
+2025-10-08 19:55:03,705 - INFO - Mean Squared Error for 00065-5fa1a3ed.tif: 651.2582529105392
+2025-10-08 19:55:03,705 - INFO - Saved aligned image: ./ECC_output/aligned_00068-8872ada7.tif
+2025-10-08 19:55:03,706 - INFO - Mean Squared Error for 00068-8872ada7.tif: 403.8431946997549
+2025-10-08 19:55:03,706 - INFO - Saved aligned image: ./ECC_output/aligned_00066-820c610b.tif
+2025-10-08 19:55:03,706 - INFO - Mean Squared Error for 00066-820c610b.tif: 474.5172526041667
+2025-10-08 19:55:03,711 - INFO - Saved aligned image: ./ECC_output/aligned_00070-e035cab2.tif
+2025-10-08 19:55:03,711 - INFO - Mean Squared Error for 00070-e035cab2.tif: 612.2984834558823
+2025-10-08 19:55:03,711 - INFO - Saved aligned image: ./ECC_output/aligned_00072-872474fb.tif
+2025-10-08 19:55:03,711 - INFO - Mean Squared Error for 00072-872474fb.tif: 406.09202665441177
+2025-10-08 19:55:03,711 - INFO - Saved aligned image: ./ECC_output/aligned_00067-16a739bf.tif
+2025-10-08 19:55:03,712 - INFO - Mean Squared Error for 00067-16a739bf.tif: 437.9525888480392
+2025-10-08 19:55:03,712 - INFO - Saved aligned image: ./ECC_output/aligned_00071-a684a877.tif
+2025-10-08 19:55:03,712 - INFO - Mean Squared Error for 00071-a684a877.tif: 616.6749961703431
+2025-10-08 19:55:03,712 - INFO - Saved aligned image: ./ECC_output/aligned_00074-c02b170b.tif
+2025-10-08 19:55:03,712 - INFO - Mean Squared Error for 00074-c02b170b.tif: 380.61755131740193
+2025-10-08 19:55:03,712 - INFO - Saved aligned image: ./ECC_output/aligned_00075-d8f5c231.tif
+2025-10-08 19:55:03,712 - INFO - Mean Squared Error for 00075-d8f5c231.tif: 637.5334137561274
+2025-10-08 19:55:03,712 - INFO - Saved aligned image: ./ECC_output/aligned_00078-758be6c.tif
+2025-10-08 19:55:03,712 - INFO - Mean Squared Error for 00078-758be6c.tif: 328.77255667892155
+2025-10-08 19:55:03,712 - INFO - Saved aligned image: ./ECC_output/aligned_00079-7cd87f92.tif
+2025-10-08 19:55:03,714 - INFO - Mean Squared Error for 00079-7cd87f92.tif: 569.2636910232843
+2025-10-08 19:55:03,714 - INFO - Saved aligned image: ./ECC_output/aligned_00080-a007793c.tif
+2025-10-08 19:55:03,714 - INFO - Mean Squared Error for 00080-a007793c.tif: 664.7737438725491
+2025-10-08 19:55:03,714 - INFO - Saved aligned image: ./ECC_output/aligned_00077-d51b27ae.tif
+2025-10-08 19:55:03,714 - INFO - Mean Squared Error for 00077-d51b27ae.tif: 482.3189146752451
+2025-10-08 19:55:03,714 - INFO - Saved aligned image: ./ECC_output/aligned_00083-c65ac97a.tif
+2025-10-08 19:55:03,714 - INFO - Mean Squared Error for 00083-c65ac97a.tif: 409.59982000612746
+2025-10-08 19:55:03,715 - INFO - Saved aligned image: ./ECC_output/aligned_00076-44e02352.tif
+2025-10-08 19:55:03,715 - INFO - Mean Squared Error for 00076-44e02352.tif: 487.01187193627453
+2025-10-08 19:55:03,715 - INFO - Saved aligned image: ./ECC_output/aligned_00081-45d5f81f.tif
+2025-10-08 19:55:03,715 - INFO - Mean Squared Error for 00081-45d5f81f.tif: 486.97506893382354
+2025-10-08 19:55:03,715 - INFO - Saved aligned image: ./ECC_output/aligned_00073-39683257.tif
+2025-10-08 19:55:03,716 - INFO - Mean Squared Error for 00073-39683257.tif: 488.0304074754902
+2025-10-08 19:55:03,716 - INFO - Saved aligned image: ./ECC_output/aligned_00082-a4212ad3.tif
+2025-10-08 19:55:03,717 - INFO - Mean Squared Error for 00082-a4212ad3.tif: 462.3610791973039
+2025-10-08 19:55:03,717 - INFO - Saved aligned image: ./ECC_output/aligned_00084-13ee73ed.tif
+2025-10-08 19:55:03,717 - INFO - Mean Squared Error for 00084-13ee73ed.tif: 520.2454427083334
+2025-10-08 19:55:03,717 - INFO - Saved aligned image: ./ECC_output/aligned_00085-3d591e3.tif
+2025-10-08 19:55:03,717 - INFO - Mean Squared Error for 00085-3d591e3.tif: 638.3701363357843
+2025-10-08 19:55:03,717 - INFO - Saved aligned image: ./ECC_output/aligned_00086-64cdb12c.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00086-64cdb12c.tif: 490.9475337009804
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00087-1ef86986.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00087-1ef86986.tif: 477.179017310049
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00088-57ce9128.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00088-57ce9128.tif: 480.5137101715686
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00091-d2fb3a14.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00091-d2fb3a14.tif: 508.7870519301471
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00089-639a7b3a.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00089-639a7b3a.tif: 450.1790939031863
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00090-d5473d74.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00090-d5473d74.tif: 609.2694163602941
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00094-5d62f2e8.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00094-5d62f2e8.tif: 477.34744561887254
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00092-3afc035c.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00092-3afc035c.tif: 584.4498123468137
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00095-9cc27bdd.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00095-9cc27bdd.tif: 627.3289675245098
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00096-cd994d30.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00096-cd994d30.tif: 583.5621170343137
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00093-29bc58da.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00093-29bc58da.tif: 406.74337469362746
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00097-b6a8cf77.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00097-b6a8cf77.tif: 390.7509382659314
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00098-651ebfaf.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00098-651ebfaf.tif: 663.9508846507352
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00099-df333865.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00099-df333865.tif: 436.8008386948529
+2025-10-08 19:55:03,718 - INFO - Saved aligned image: ./ECC_output/aligned_00100-98250e06.tif
+2025-10-08 19:55:03,718 - INFO - Mean Squared Error for 00100-98250e06.tif: 470.915345435049
+2025-10-08 19:55:04,219 - INFO - ECC registration completed!
+2025-10-08 19:55:04,219 - INFO - Starting second stage: B-spline registration...
+2025-10-08 19:55:04,220 - INFO - Found 100 images for B-spline registration
+2025-10-08 19:55:04,229 - INFO - Starting B-spline registration with 11 workers...
+2025-10-08 19:57:39,209 - INFO - Frame 0: Fixed image saved
+2025-10-08 19:57:39,209 - INFO - Frame 1: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 2: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 3: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 4: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 5: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 6: Registration completed
+2025-10-08 19:57:39,209 - INFO - Frame 7: Registration completed
+2025-10-08 19:57:39,211 - INFO - Frame 8: Registration completed
+2025-10-08 19:57:39,211 - INFO - Frame 9: Registration completed
+2025-10-08 19:57:39,211 - INFO - Frame 10: Registration completed
+2025-10-08 19:57:39,212 - INFO - Frame 11: Registration completed
+2025-10-08 19:57:39,212 - INFO - Frame 12: Registration completed
+2025-10-08 19:57:39,212 - INFO - Frame 13: Registration completed
+2025-10-08 19:57:39,214 - INFO - Frame 14: Registration completed
+2025-10-08 19:57:39,214 - INFO - Frame 15: Registration completed
+2025-10-08 19:57:39,214 - INFO - Frame 16: Registration completed
+2025-10-08 19:57:39,215 - INFO - Frame 17: Registration completed
+2025-10-08 19:57:39,217 - INFO - Frame 18: Registration completed
+2025-10-08 19:57:39,218 - INFO - Frame 19: Registration completed
+2025-10-08 19:57:39,220 - INFO - Frame 20: Registration completed
+2025-10-08 19:57:39,220 - INFO - Frame 21: Registration completed
+2025-10-08 19:57:39,222 - INFO - Frame 22: Registration completed
+2025-10-08 19:57:39,223 - INFO - Frame 23: Registration completed
+2025-10-08 19:57:39,224 - INFO - Frame 24: Registration completed
+2025-10-08 19:57:39,224 - INFO - Frame 25: Registration completed
+2025-10-08 19:57:39,225 - INFO - Frame 26: Registration completed
+2025-10-08 19:57:39,227 - INFO - Frame 27: Registration completed
+2025-10-08 19:57:39,229 - INFO - Frame 28: Registration completed
+2025-10-08 19:57:39,229 - INFO - Frame 29: Registration completed
+2025-10-08 19:57:39,229 - INFO - Frame 30: Registration completed
+2025-10-08 19:57:39,230 - INFO - Frame 31: Registration completed
+2025-10-08 19:57:39,230 - INFO - Frame 32: Registration completed
+2025-10-08 19:57:39,230 - INFO - Frame 33: Registration completed
+2025-10-08 19:57:39,231 - INFO - Frame 34: Registration completed
+2025-10-08 19:57:39,231 - INFO - Frame 35: Registration completed
+2025-10-08 19:57:39,231 - INFO - Frame 36: Registration completed
+2025-10-08 19:57:39,232 - INFO - Frame 37: Registration completed
+2025-10-08 19:57:39,232 - INFO - Frame 38: Registration completed
+2025-10-08 19:57:39,232 - INFO - Frame 39: Registration completed
+2025-10-08 19:57:39,234 - INFO - Frame 40: Registration completed
+2025-10-08 19:57:39,234 - INFO - Frame 41: Registration completed
+2025-10-08 19:57:39,234 - INFO - Frame 42: Registration completed
+2025-10-08 19:57:39,234 - INFO - Frame 43: Registration completed
+2025-10-08 19:57:39,235 - INFO - Frame 44: Registration completed
+2025-10-08 19:57:39,235 - INFO - Frame 45: Registration completed
+2025-10-08 19:57:39,235 - INFO - Frame 46: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 47: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 48: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 49: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 50: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 51: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 52: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 53: Registration completed
+2025-10-08 19:57:39,237 - INFO - Frame 54: Registration completed
+2025-10-08 19:57:39,238 - INFO - Frame 55: Registration completed
+2025-10-08 19:57:39,238 - INFO - Frame 56: Registration completed
+2025-10-08 19:57:39,238 - INFO - Frame 57: Registration completed
+2025-10-08 19:57:39,239 - INFO - Frame 58: Registration completed
+2025-10-08 19:57:39,241 - INFO - Frame 59: Registration completed
+2025-10-08 19:57:39,242 - INFO - Frame 60: Registration completed
+2025-10-08 19:57:39,243 - INFO - Frame 61: Registration completed
+2025-10-08 19:57:39,243 - INFO - Frame 62: Registration completed
+2025-10-08 19:57:39,243 - INFO - Frame 63: Registration completed
+2025-10-08 19:57:39,244 - INFO - Frame 64: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 65: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 66: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 67: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 68: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 69: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 70: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 71: Registration completed
+2025-10-08 19:57:39,246 - INFO - Frame 72: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 73: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 74: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 75: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 76: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 77: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 78: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 79: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 80: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 81: Registration completed
+2025-10-08 19:57:39,247 - INFO - Frame 82: Registration completed
+2025-10-08 19:57:39,248 - INFO - Frame 83: Registration completed
+2025-10-08 19:57:39,248 - INFO - Frame 84: Registration completed
+2025-10-08 19:57:39,248 - INFO - Frame 85: Registration completed
+2025-10-08 19:57:39,250 - INFO - Frame 86: Registration completed
+2025-10-08 19:57:39,251 - INFO - Frame 87: Registration completed
+2025-10-08 19:57:39,253 - INFO - Frame 88: Registration completed
+2025-10-08 19:57:39,253 - INFO - Frame 89: Registration completed
+2025-10-08 19:57:39,255 - INFO - Frame 90: Registration completed
+2025-10-08 19:57:39,255 - INFO - Frame 91: Registration completed
+2025-10-08 19:57:39,255 - INFO - Frame 92: Registration completed
+2025-10-08 19:57:39,256 - INFO - Frame 93: Registration completed
+2025-10-08 19:57:39,258 - INFO - Frame 94: Registration completed
+2025-10-08 19:57:39,259 - INFO - Frame 95: Registration completed
+2025-10-08 19:57:39,260 - INFO - Frame 96: Registration completed
+2025-10-08 19:57:39,262 - INFO - Frame 97: Registration completed
+2025-10-08 19:57:39,264 - INFO - Frame 98: Registration completed
+2025-10-08 19:57:39,265 - INFO - Frame 99: Registration completed
+2025-10-08 19:57:39,266 - INFO - B-spline registration completed!
+2025-10-08 19:57:39,268 - INFO - Two-stage registration completed!
+2025-10-09 10:41:03,375 - INFO - Starting B-spline registration...
+2025-10-09 10:41:06,118 - INFO - User choice for preprocessing for B-spline: n
+2025-10-09 10:41:06,119 - INFO - Skipping preprocessing for B-spline, using original images.
+2025-10-09 10:41:06,121 - INFO - Found 100 images for B-spline registration
+2025-10-09 10:41:06,131 - INFO - Starting B-spline registration with 10 workers...
+2025-10-09 10:43:24,014 - INFO - Frame 0: Fixed image saved
+2025-10-09 10:43:24,015 - INFO - Frame 1: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 2: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 3: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 4: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 5: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 6: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 7: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 8: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 9: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 10: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 11: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 12: Registration completed
+2025-10-09 10:43:24,015 - INFO - Frame 13: Registration completed
+2025-10-09 10:43:24,021 - INFO - Frame 14: Registration completed
+2025-10-09 10:43:24,022 - INFO - Frame 15: Registration completed
+2025-10-09 10:43:24,023 - INFO - Frame 16: Registration completed
+2025-10-09 10:43:24,023 - INFO - Frame 17: Registration completed
+2025-10-09 10:43:24,024 - INFO - Frame 18: Registration completed
+2025-10-09 10:43:24,024 - INFO - Frame 19: Registration completed
+2025-10-09 10:43:24,024 - INFO - Frame 20: Registration completed
+2025-10-09 10:43:24,025 - INFO - Frame 21: Registration completed
+2025-10-09 10:43:24,025 - INFO - Frame 22: Registration completed
+2025-10-09 10:43:24,025 - INFO - Frame 23: Registration completed
+2025-10-09 10:43:24,025 - INFO - Frame 24: Registration completed
+2025-10-09 10:43:24,025 - INFO - Frame 25: Registration completed
+2025-10-09 10:43:24,027 - INFO - Frame 26: Registration completed
+2025-10-09 10:43:24,027 - INFO - Frame 27: Registration completed
+2025-10-09 10:43:24,027 - INFO - Frame 28: Registration completed
+2025-10-09 10:43:24,027 - INFO - Frame 29: Registration completed
+2025-10-09 10:43:24,028 - INFO - Frame 30: Registration completed
+2025-10-09 10:43:24,028 - INFO - Frame 31: Registration completed
+2025-10-09 10:43:24,028 - INFO - Frame 32: Registration completed
+2025-10-09 10:43:24,028 - INFO - Frame 33: Registration completed
+2025-10-09 10:43:24,030 - INFO - Frame 34: Registration completed
+2025-10-09 10:43:24,030 - INFO - Frame 35: Registration completed
+2025-10-09 10:43:24,030 - INFO - Frame 36: Registration completed
+2025-10-09 10:43:24,031 - INFO - Frame 37: Registration completed
+2025-10-09 10:43:24,031 - INFO - Frame 38: Registration completed
+2025-10-09 10:43:24,031 - INFO - Frame 39: Registration completed
+2025-10-09 10:43:24,032 - INFO - Frame 40: Registration completed
+2025-10-09 10:43:24,032 - INFO - Frame 41: Registration completed
+2025-10-09 10:43:24,033 - INFO - Frame 42: Registration completed
+2025-10-09 10:43:24,034 - INFO - Frame 43: Registration completed
+2025-10-09 10:43:24,035 - INFO - Frame 44: Registration completed
+2025-10-09 10:43:24,035 - INFO - Frame 45: Registration completed
+2025-10-09 10:43:24,036 - INFO - Frame 46: Registration completed
+2025-10-09 10:43:24,036 - INFO - Frame 47: Registration completed
+2025-10-09 10:43:24,036 - INFO - Frame 48: Registration completed
+2025-10-09 10:43:24,036 - INFO - Frame 49: Registration completed
+2025-10-09 10:43:24,038 - INFO - Frame 50: Registration completed
+2025-10-09 10:43:24,038 - INFO - Frame 51: Registration completed
+2025-10-09 10:43:24,038 - INFO - Frame 52: Registration completed
+2025-10-09 10:43:24,038 - INFO - Frame 53: Registration completed
+2025-10-09 10:43:24,038 - INFO - Frame 54: Registration completed
+2025-10-09 10:43:24,039 - INFO - Frame 55: Registration completed
+2025-10-09 10:43:24,039 - INFO - Frame 56: Registration completed
+2025-10-09 10:43:24,039 - INFO - Frame 57: Registration completed
+2025-10-09 10:43:24,041 - INFO - Frame 58: Registration completed
+2025-10-09 10:43:24,041 - INFO - Frame 59: Registration completed
+2025-10-09 10:43:24,041 - INFO - Frame 60: Registration completed
+2025-10-09 10:43:24,043 - INFO - Frame 61: Registration completed
+2025-10-09 10:43:24,043 - INFO - Frame 62: Registration completed
+2025-10-09 10:43:24,043 - INFO - Frame 63: Registration completed
+2025-10-09 10:43:24,045 - INFO - Frame 64: Registration completed
+2025-10-09 10:43:24,046 - INFO - Frame 65: Registration completed
+2025-10-09 10:43:24,046 - INFO - Frame 66: Registration completed
+2025-10-09 10:43:24,047 - INFO - Frame 67: Registration completed
+2025-10-09 10:43:24,047 - INFO - Frame 68: Registration completed
+2025-10-09 10:43:24,047 - INFO - Frame 69: Registration completed
+2025-10-09 10:43:24,049 - INFO - Frame 70: Registration completed
+2025-10-09 10:43:24,049 - INFO - Frame 71: Registration completed
+2025-10-09 10:43:24,049 - INFO - Frame 72: Registration completed
+2025-10-09 10:43:24,050 - INFO - Frame 73: Registration completed
+2025-10-09 10:43:24,050 - INFO - Frame 74: Registration completed
+2025-10-09 10:43:24,050 - INFO - Frame 75: Registration completed
+2025-10-09 10:43:24,052 - INFO - Frame 76: Registration completed
+2025-10-09 10:43:24,052 - INFO - Frame 77: Registration completed
+2025-10-09 10:43:24,052 - INFO - Frame 78: Registration completed
+2025-10-09 10:43:24,052 - INFO - Frame 79: Registration completed
+2025-10-09 10:43:24,053 - INFO - Frame 80: Registration completed
+2025-10-09 10:43:24,053 - INFO - Frame 81: Registration completed
+2025-10-09 10:43:24,053 - INFO - Frame 82: Registration completed
+2025-10-09 10:43:24,053 - INFO - Frame 83: Registration completed
+2025-10-09 10:43:24,053 - INFO - Frame 84: Registration completed
+2025-10-09 10:43:24,055 - INFO - Frame 85: Registration completed
+2025-10-09 10:43:24,055 - INFO - Frame 86: Registration completed
+2025-10-09 10:43:24,056 - INFO - Frame 87: Registration completed
+2025-10-09 10:43:24,056 - INFO - Frame 88: Registration completed
+2025-10-09 10:43:24,056 - INFO - Frame 89: Registration completed
+2025-10-09 10:43:24,058 - INFO - Frame 90: Registration completed
+2025-10-09 10:43:24,059 - INFO - Frame 91: Registration completed
+2025-10-09 10:43:24,059 - INFO - Frame 92: Registration completed
+2025-10-09 10:43:24,060 - INFO - Frame 93: Registration completed
+2025-10-09 10:43:24,060 - INFO - Frame 94: Registration completed
+2025-10-09 10:43:24,060 - INFO - Frame 95: Registration completed
+2025-10-09 10:43:24,060 - INFO - Frame 96: Registration completed
+2025-10-09 10:43:24,060 - INFO - Frame 97: Registration completed
+2025-10-09 10:43:24,062 - INFO - Frame 98: Registration completed
+2025-10-09 10:43:24,063 - INFO - Frame 99: Registration completed
+2025-10-09 10:43:24,063 - INFO - B-spline registration completed!
+2025-10-09 10:43:24,064 - INFO - B-spline registration completed!
+2025-10-09 10:49:00,922 - INFO - Starting ECC registration...
+2025-10-09 10:49:03,322 - INFO - User choice for preprocessing for ECC: n
+2025-10-09 10:49:03,323 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-09 10:49:03,326 - INFO - Using 10 parallel workers for ECC alignment
+2025-10-09 10:49:03,365 - INFO - Saved reference image: ./ECC_output_method1/aligned_00001-2a7c9686.tif
+2025-10-09 10:49:03,365 - INFO - Processing 99 images for ECC alignment
+2025-10-09 10:49:03,368 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-09 10:49:48,135 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00007-4a606178.tif
+2025-10-09 10:49:48,135 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-09 10:49:48,135 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00003-570d0074.tif
+2025-10-09 10:49:48,135 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-09 10:49:48,135 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00011-c2649c60.tif
+2025-10-09 10:49:48,139 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-09 10:49:48,141 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00005-897e5091.tif
+2025-10-09 10:49:48,142 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-09 10:49:48,144 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00010-5644e032.tif
+2025-10-09 10:49:48,144 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-09 10:49:48,146 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00006-4eceef4d.tif
+2025-10-09 10:49:48,146 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-09 10:49:48,147 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00009-d44859eb.tif
+2025-10-09 10:49:48,149 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-09 10:49:48,149 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00004-ca974273.tif
+2025-10-09 10:49:48,149 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-09 10:49:48,150 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00008-8cdeb968.tif
+2025-10-09 10:49:48,152 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-09 10:49:48,154 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00002-95cdc696.tif
+2025-10-09 10:49:48,154 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-09 10:49:48,154 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00013-bec21585.tif
+2025-10-09 10:49:48,154 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-09 10:49:48,154 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00012-d4dfd38f.tif
+2025-10-09 10:49:48,154 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-09 10:49:48,155 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00015-7cc2e54.tif
+2025-10-09 10:49:48,155 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-09 10:49:48,155 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00014-f6b93706.tif
+2025-10-09 10:49:48,157 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-09 10:49:48,157 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00018-dacf634.tif
+2025-10-09 10:49:48,158 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-09 10:49:48,158 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00019-86a3aace.tif
+2025-10-09 10:49:48,160 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-09 10:49:48,161 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00016-d921c5ae.tif
+2025-10-09 10:49:48,163 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-09 10:49:48,163 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00021-d96c06dd.tif
+2025-10-09 10:49:48,163 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-09 10:49:48,163 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00020-5c6536bb.tif
+2025-10-09 10:49:48,164 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-09 10:49:48,167 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00017-395951dd.tif
+2025-10-09 10:49:48,167 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-09 10:49:48,167 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00022-f17bc0f.tif
+2025-10-09 10:49:48,168 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-09 10:49:48,168 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00023-bc8246b5.tif
+2025-10-09 10:49:48,168 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-09 10:49:48,169 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00024-63e1dad3.tif
+2025-10-09 10:49:48,169 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-09 10:49:48,169 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00026-6ef05eb8.tif
+2025-10-09 10:49:48,169 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-09 10:49:48,169 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00027-35f34ee5.tif
+2025-10-09 10:49:48,169 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-09 10:49:48,169 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00028-50a82ee7.tif
+2025-10-09 10:49:48,171 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-09 10:49:48,171 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00030-7312ecad.tif
+2025-10-09 10:49:48,171 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-09 10:49:48,171 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00029-f492f701.tif
+2025-10-09 10:49:48,171 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-09 10:49:48,171 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00031-eb7058b.tif
+2025-10-09 10:49:48,171 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-09 10:49:48,172 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00025-7ec122bc.tif
+2025-10-09 10:49:48,174 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-09 10:49:48,174 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00033-d906248.tif
+2025-10-09 10:49:48,174 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-09 10:49:48,174 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00034-85938335.tif
+2025-10-09 10:49:48,174 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-09 10:49:48,174 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00036-57955b6f.tif
+2025-10-09 10:49:48,174 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-09 10:49:48,176 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00035-3da70e49.tif
+2025-10-09 10:49:48,176 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-09 10:49:48,176 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00032-8d386c59.tif
+2025-10-09 10:49:48,178 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-09 10:49:48,178 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00037-9ec66cca.tif
+2025-10-09 10:49:48,178 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-09 10:49:48,178 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00038-f20090a7.tif
+2025-10-09 10:49:48,178 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-09 10:49:48,179 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00039-ca6089a6.tif
+2025-10-09 10:49:48,179 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-09 10:49:48,180 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00040-35e343e8.tif
+2025-10-09 10:49:48,181 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-09 10:49:48,181 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00042-3325c229.tif
+2025-10-09 10:49:48,182 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-09 10:49:48,185 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00044-943a0bd2.tif
+2025-10-09 10:49:48,185 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-09 10:49:48,185 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00043-fb9c5dfc.tif
+2025-10-09 10:49:48,185 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-09 10:49:48,185 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00046-699be951.tif
+2025-10-09 10:49:48,185 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-09 10:49:48,187 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00045-dafd8b1.tif
+2025-10-09 10:49:48,187 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-09 10:49:48,187 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00047-13b10311.tif
+2025-10-09 10:49:48,188 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-09 10:49:48,188 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00041-8f258615.tif
+2025-10-09 10:49:48,188 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-09 10:49:48,190 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00048-87d3e668.tif
+2025-10-09 10:49:48,191 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-09 10:49:48,191 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00049-f025c6e6.tif
+2025-10-09 10:49:48,193 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-09 10:49:48,194 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00050-b32ba3cf.tif
+2025-10-09 10:49:48,194 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-09 10:49:48,196 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00051-d9f9a9d9.tif
+2025-10-09 10:49:48,196 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-09 10:49:48,697 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-09 10:50:36,479 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00055-336c7768.tif
+2025-10-09 10:50:36,479 - INFO - Mean Squared Error for 00055-336c7768.tif: 606.2823797487745
+2025-10-09 10:50:36,482 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00058-326b9171.tif
+2025-10-09 10:50:36,482 - INFO - Mean Squared Error for 00058-326b9171.tif: 382.7174862132353
+2025-10-09 10:50:36,484 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00054-efc2ed68.tif
+2025-10-09 10:50:36,485 - INFO - Mean Squared Error for 00054-efc2ed68.tif: 612.1869829963235
+2025-10-09 10:50:36,487 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00061-b6337ee.tif
+2025-10-09 10:50:36,488 - INFO - Mean Squared Error for 00061-b6337ee.tif: 444.70222503063724
+2025-10-09 10:50:36,489 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00056-77c23fa8.tif
+2025-10-09 10:50:36,491 - INFO - Mean Squared Error for 00056-77c23fa8.tif: 395.5700635723039
+2025-10-09 10:50:36,492 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00052-174b5f46.tif
+2025-10-09 10:50:36,493 - INFO - Mean Squared Error for 00052-174b5f46.tif: 369.7972196691176
+2025-10-09 10:50:36,493 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00057-750b186d.tif
+2025-10-09 10:50:36,495 - INFO - Mean Squared Error for 00057-750b186d.tif: 567.6007965686274
+2025-10-09 10:50:36,495 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00060-780a3258.tif
+2025-10-09 10:50:36,496 - INFO - Mean Squared Error for 00060-780a3258.tif: 650.1544500612745
+2025-10-09 10:50:36,496 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00053-7e522b4e.tif
+2025-10-09 10:50:36,498 - INFO - Mean Squared Error for 00053-7e522b4e.tif: 452.7053462009804
+2025-10-09 10:50:36,498 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00059-e7cc75af.tif
+2025-10-09 10:50:36,499 - INFO - Mean Squared Error for 00059-e7cc75af.tif: 550.9697457107843
+2025-10-09 10:50:36,500 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00069-9b734e50.tif
+2025-10-09 10:50:36,502 - INFO - Mean Squared Error for 00069-9b734e50.tif: 485.49128753063724
+2025-10-09 10:50:36,504 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00064-be278402.tif
+2025-10-09 10:50:36,505 - INFO - Mean Squared Error for 00064-be278402.tif: 557.4526079963235
+2025-10-09 10:50:36,506 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00065-5fa1a3ed.tif
+2025-10-09 10:50:36,508 - INFO - Mean Squared Error for 00065-5fa1a3ed.tif: 651.2582529105392
+2025-10-09 10:50:36,509 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00062-983149ec.tif
+2025-10-09 10:50:36,509 - INFO - Mean Squared Error for 00062-983149ec.tif: 571.5061657475491
+2025-10-09 10:50:36,510 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00066-820c610b.tif
+2025-10-09 10:50:36,512 - INFO - Mean Squared Error for 00066-820c610b.tif: 474.5172526041667
+2025-10-09 10:50:36,513 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00067-16a739bf.tif
+2025-10-09 10:50:36,514 - INFO - Mean Squared Error for 00067-16a739bf.tif: 437.9525888480392
+2025-10-09 10:50:36,516 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00068-8872ada7.tif
+2025-10-09 10:50:36,517 - INFO - Mean Squared Error for 00068-8872ada7.tif: 403.8431946997549
+2025-10-09 10:50:36,519 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00063-a509a90.tif
+2025-10-09 10:50:36,520 - INFO - Mean Squared Error for 00063-a509a90.tif: 293.91812193627453
+2025-10-09 10:50:36,522 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00070-e035cab2.tif
+2025-10-09 10:50:36,523 - INFO - Mean Squared Error for 00070-e035cab2.tif: 612.2984834558823
+2025-10-09 10:50:36,524 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00071-a684a877.tif
+2025-10-09 10:50:36,526 - INFO - Mean Squared Error for 00071-a684a877.tif: 616.6749961703431
+2025-10-09 10:50:36,527 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00072-872474fb.tif
+2025-10-09 10:50:36,528 - INFO - Mean Squared Error for 00072-872474fb.tif: 406.09202665441177
+2025-10-09 10:50:36,530 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00074-c02b170b.tif
+2025-10-09 10:50:36,531 - INFO - Mean Squared Error for 00074-c02b170b.tif: 380.61755131740193
+2025-10-09 10:50:36,533 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00075-d8f5c231.tif
+2025-10-09 10:50:36,534 - INFO - Mean Squared Error for 00075-d8f5c231.tif: 637.5334137561274
+2025-10-09 10:50:36,535 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00073-39683257.tif
+2025-10-09 10:50:36,537 - INFO - Mean Squared Error for 00073-39683257.tif: 488.0304074754902
+2025-10-09 10:50:36,538 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00077-d51b27ae.tif
+2025-10-09 10:50:36,539 - INFO - Mean Squared Error for 00077-d51b27ae.tif: 482.3189146752451
+2025-10-09 10:50:36,541 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00078-758be6c.tif
+2025-10-09 10:50:36,542 - INFO - Mean Squared Error for 00078-758be6c.tif: 328.77255667892155
+2025-10-09 10:50:36,544 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00080-a007793c.tif
+2025-10-09 10:50:36,545 - INFO - Mean Squared Error for 00080-a007793c.tif: 664.7737438725491
+2025-10-09 10:50:36,547 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00079-7cd87f92.tif
+2025-10-09 10:50:36,548 - INFO - Mean Squared Error for 00079-7cd87f92.tif: 569.2636910232843
+2025-10-09 10:50:36,550 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00083-c65ac97a.tif
+2025-10-09 10:50:36,551 - INFO - Mean Squared Error for 00083-c65ac97a.tif: 409.59982000612746
+2025-10-09 10:50:36,551 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00076-44e02352.tif
+2025-10-09 10:50:36,552 - INFO - Mean Squared Error for 00076-44e02352.tif: 487.01187193627453
+2025-10-09 10:50:36,554 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00082-a4212ad3.tif
+2025-10-09 10:50:36,555 - INFO - Mean Squared Error for 00082-a4212ad3.tif: 462.3610791973039
+2025-10-09 10:50:36,557 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00085-3d591e3.tif
+2025-10-09 10:50:36,559 - INFO - Mean Squared Error for 00085-3d591e3.tif: 638.3701363357843
+2025-10-09 10:50:36,560 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00084-13ee73ed.tif
+2025-10-09 10:50:36,561 - INFO - Mean Squared Error for 00084-13ee73ed.tif: 520.2454427083334
+2025-10-09 10:50:36,563 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00086-64cdb12c.tif
+2025-10-09 10:50:36,564 - INFO - Mean Squared Error for 00086-64cdb12c.tif: 490.9475337009804
+2025-10-09 10:50:36,566 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00087-1ef86986.tif
+2025-10-09 10:50:36,567 - INFO - Mean Squared Error for 00087-1ef86986.tif: 477.179017310049
+2025-10-09 10:50:36,568 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00090-d5473d74.tif
+2025-10-09 10:50:36,570 - INFO - Mean Squared Error for 00090-d5473d74.tif: 609.2694163602941
+2025-10-09 10:50:36,571 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00091-d2fb3a14.tif
+2025-10-09 10:50:36,572 - INFO - Mean Squared Error for 00091-d2fb3a14.tif: 508.7870519301471
+2025-10-09 10:50:36,574 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00089-639a7b3a.tif
+2025-10-09 10:50:36,575 - INFO - Mean Squared Error for 00089-639a7b3a.tif: 450.1790939031863
+2025-10-09 10:50:36,576 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00088-57ce9128.tif
+2025-10-09 10:50:36,578 - INFO - Mean Squared Error for 00088-57ce9128.tif: 480.5137101715686
+2025-10-09 10:50:36,578 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00081-45d5f81f.tif
+2025-10-09 10:50:36,579 - INFO - Mean Squared Error for 00081-45d5f81f.tif: 486.97506893382354
+2025-10-09 10:50:36,580 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00093-29bc58da.tif
+2025-10-09 10:50:36,581 - INFO - Mean Squared Error for 00093-29bc58da.tif: 406.74337469362746
+2025-10-09 10:50:36,583 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00094-5d62f2e8.tif
+2025-10-09 10:50:36,584 - INFO - Mean Squared Error for 00094-5d62f2e8.tif: 477.34744561887254
+2025-10-09 10:50:36,585 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00092-3afc035c.tif
+2025-10-09 10:50:36,587 - INFO - Mean Squared Error for 00092-3afc035c.tif: 584.4498123468137
+2025-10-09 10:50:36,588 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00095-9cc27bdd.tif
+2025-10-09 10:50:36,589 - INFO - Mean Squared Error for 00095-9cc27bdd.tif: 627.3289675245098
+2025-10-09 10:50:36,591 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00096-cd994d30.tif
+2025-10-09 10:50:36,592 - INFO - Mean Squared Error for 00096-cd994d30.tif: 583.5621170343137
+2025-10-09 10:50:36,593 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00098-651ebfaf.tif
+2025-10-09 10:50:36,595 - INFO - Mean Squared Error for 00098-651ebfaf.tif: 663.9508846507352
+2025-10-09 10:50:36,596 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00097-b6a8cf77.tif
+2025-10-09 10:50:36,598 - INFO - Mean Squared Error for 00097-b6a8cf77.tif: 390.7509382659314
+2025-10-09 10:50:36,599 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00099-df333865.tif
+2025-10-09 10:50:36,601 - INFO - Mean Squared Error for 00099-df333865.tif: 436.8008386948529
+2025-10-09 10:50:36,602 - INFO - Saved aligned image: ./ECC_output_method1/aligned_00100-98250e06.tif
+2025-10-09 10:50:36,604 - INFO - Mean Squared Error for 00100-98250e06.tif: 470.915345435049
+2025-10-09 10:50:37,104 - INFO - ECC registration completed!
+2025-10-09 10:53:24,748 - INFO - Starting ECC registration...
+2025-10-09 10:53:26,828 - INFO - User choice for preprocessing for ECC: y
+2025-10-09 10:53:32,273 - INFO - User input for adjusting parameters: n
+2025-10-09 10:53:32,291 - INFO - Final ECC preprocessing parameters: CLAHE enabled: True, clipLimit=1.5, tileGridSize=(16, 16), brightness=0, gaussian_kernel=0
+2025-10-09 10:53:34,634 - INFO - Saved preprocessed reference image for ECC: ./ECC_preprocess/preprocessed_00001-2a7c9686.tif
+2025-10-09 10:53:34,634 - INFO - Preprocessing all images for ECC...
+2025-10-09 10:53:34,634 - INFO - Processing preprocessing batch 1/2 (50 images)
+2025-10-09 10:53:34,735 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00006-4eceef4d.tif
+2025-10-09 10:53:34,735 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00002-95cdc696.tif
+2025-10-09 10:53:34,735 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00003-570d0074.tif
+2025-10-09 10:53:34,737 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00007-4a606178.tif
+2025-10-09 10:53:34,737 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00001-2a7c9686.tif
+2025-10-09 10:53:34,738 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00008-8cdeb968.tif
+2025-10-09 10:53:34,738 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00004-ca974273.tif
+2025-10-09 10:53:34,740 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00010-5644e032.tif
+2025-10-09 10:53:34,740 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00005-897e5091.tif
+2025-10-09 10:53:34,741 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00009-d44859eb.tif
+2025-10-09 10:53:34,741 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00015-7cc2e54.tif
+2025-10-09 10:53:34,741 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00012-d4dfd38f.tif
+2025-10-09 10:53:34,743 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00014-f6b93706.tif
+2025-10-09 10:53:34,743 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00013-bec21585.tif
+2025-10-09 10:53:34,743 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00011-c2649c60.tif
+2025-10-09 10:53:34,744 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00017-395951dd.tif
+2025-10-09 10:53:34,744 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00016-d921c5ae.tif
+2025-10-09 10:53:34,744 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00018-dacf634.tif
+2025-10-09 10:53:34,746 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00019-86a3aace.tif
+2025-10-09 10:53:34,746 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00020-5c6536bb.tif
+2025-10-09 10:53:34,746 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00021-d96c06dd.tif
+2025-10-09 10:53:34,748 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00022-f17bc0f.tif
+2025-10-09 10:53:34,748 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00023-bc8246b5.tif
+2025-10-09 10:53:34,748 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00024-63e1dad3.tif
+2025-10-09 10:53:34,749 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00025-7ec122bc.tif
+2025-10-09 10:53:34,749 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00027-35f34ee5.tif
+2025-10-09 10:53:34,749 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00026-6ef05eb8.tif
+2025-10-09 10:53:34,751 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00028-50a82ee7.tif
+2025-10-09 10:53:34,751 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00029-f492f701.tif
+2025-10-09 10:53:34,753 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00030-7312ecad.tif
+2025-10-09 10:53:34,754 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00032-8d386c59.tif
+2025-10-09 10:53:34,756 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00031-eb7058b.tif
+2025-10-09 10:53:34,758 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00033-d906248.tif
+2025-10-09 10:53:34,759 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00035-3da70e49.tif
+2025-10-09 10:53:34,760 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00036-57955b6f.tif
+2025-10-09 10:53:34,763 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00037-9ec66cca.tif
+2025-10-09 10:53:34,763 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00034-85938335.tif
+2025-10-09 10:53:34,763 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00039-ca6089a6.tif
+2025-10-09 10:53:34,764 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00038-f20090a7.tif
+2025-10-09 10:53:34,764 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00040-35e343e8.tif
+2025-10-09 10:53:34,764 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00041-8f258615.tif
+2025-10-09 10:53:34,766 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00042-3325c229.tif
+2025-10-09 10:53:34,766 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00043-fb9c5dfc.tif
+2025-10-09 10:53:34,767 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00044-943a0bd2.tif
+2025-10-09 10:53:34,767 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00045-dafd8b1.tif
+2025-10-09 10:53:34,767 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00047-13b10311.tif
+2025-10-09 10:53:34,769 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00048-87d3e668.tif
+2025-10-09 10:53:34,769 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00046-699be951.tif
+2025-10-09 10:53:34,769 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00050-b32ba3cf.tif
+2025-10-09 10:53:34,770 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00049-f025c6e6.tif
+2025-10-09 10:53:35,270 - INFO - Processing preprocessing batch 2/2 (50 images)
+2025-10-09 10:53:35,356 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00052-174b5f46.tif
+2025-10-09 10:53:35,357 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00055-336c7768.tif
+2025-10-09 10:53:35,357 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00054-efc2ed68.tif
+2025-10-09 10:53:35,358 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00053-7e522b4e.tif
+2025-10-09 10:53:35,360 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00056-77c23fa8.tif
+2025-10-09 10:53:35,361 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00057-750b186d.tif
+2025-10-09 10:53:35,363 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00051-d9f9a9d9.tif
+2025-10-09 10:53:35,364 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00058-326b9171.tif
+2025-10-09 10:53:35,366 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00060-780a3258.tif
+2025-10-09 10:53:35,366 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00059-e7cc75af.tif
+2025-10-09 10:53:35,367 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00062-983149ec.tif
+2025-10-09 10:53:35,368 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00061-b6337ee.tif
+2025-10-09 10:53:35,370 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00064-be278402.tif
+2025-10-09 10:53:35,370 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00063-a509a90.tif
+2025-10-09 10:53:35,371 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00065-5fa1a3ed.tif
+2025-10-09 10:53:35,371 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00067-16a739bf.tif
+2025-10-09 10:53:35,371 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00066-820c610b.tif
+2025-10-09 10:53:35,372 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00068-8872ada7.tif
+2025-10-09 10:53:35,374 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00069-9b734e50.tif
+2025-10-09 10:53:35,374 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00070-e035cab2.tif
+2025-10-09 10:53:35,374 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00071-a684a877.tif
+2025-10-09 10:53:35,376 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00073-39683257.tif
+2025-10-09 10:53:35,376 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00074-c02b170b.tif
+2025-10-09 10:53:35,376 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00072-872474fb.tif
+2025-10-09 10:53:35,377 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00076-44e02352.tif
+2025-10-09 10:53:35,377 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00075-d8f5c231.tif
+2025-10-09 10:53:35,377 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00077-d51b27ae.tif
+2025-10-09 10:53:35,379 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00078-758be6c.tif
+2025-10-09 10:53:35,379 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00079-7cd87f92.tif
+2025-10-09 10:53:35,379 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00080-a007793c.tif
+2025-10-09 10:53:35,380 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00081-45d5f81f.tif
+2025-10-09 10:53:35,380 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00082-a4212ad3.tif
+2025-10-09 10:53:35,380 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00084-13ee73ed.tif
+2025-10-09 10:53:35,382 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00085-3d591e3.tif
+2025-10-09 10:53:35,382 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00086-64cdb12c.tif
+2025-10-09 10:53:35,382 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00087-1ef86986.tif
+2025-10-09 10:53:35,383 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00083-c65ac97a.tif
+2025-10-09 10:53:35,383 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00088-57ce9128.tif
+2025-10-09 10:53:35,383 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00089-639a7b3a.tif
+2025-10-09 10:53:35,383 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00090-d5473d74.tif
+2025-10-09 10:53:35,385 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00091-d2fb3a14.tif
+2025-10-09 10:53:35,385 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00092-3afc035c.tif
+2025-10-09 10:53:35,385 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00093-29bc58da.tif
+2025-10-09 10:53:35,385 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00094-5d62f2e8.tif
+2025-10-09 10:53:35,386 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00095-9cc27bdd.tif
+2025-10-09 10:53:35,386 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00096-cd994d30.tif
+2025-10-09 10:53:35,386 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00097-b6a8cf77.tif
+2025-10-09 10:53:35,388 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00098-651ebfaf.tif
+2025-10-09 10:53:35,388 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00099-df333865.tif
+2025-10-09 10:53:35,388 - INFO - Saved preprocessed image for ECC: ./ECC_preprocess/preprocessed_00100-98250e06.tif
+2025-10-09 10:53:35,889 - INFO - ECC preprocessing completed!
+2025-10-09 10:53:35,896 - INFO - Using 10 parallel workers for ECC alignment
+2025-10-09 10:53:35,923 - INFO - Saved reference image: ./ECC_output_method1_pre/aligned_preprocessed_00001-2a7c9686.tif
+2025-10-09 10:53:35,923 - INFO - Processing 99 images for ECC alignment
+2025-10-09 10:53:35,925 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-09 10:54:17,587 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00006-4eceef4d.tif
+2025-10-09 10:54:17,588 - INFO - Mean Squared Error for preprocessed_00006-4eceef4d.tif: 790.8318589154412
+2025-10-09 10:54:17,588 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00002-95cdc696.tif
+2025-10-09 10:54:17,588 - INFO - Mean Squared Error for preprocessed_00002-95cdc696.tif: 915.9954044117648
+2025-10-09 10:54:17,588 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00011-c2649c60.tif
+2025-10-09 10:54:17,593 - INFO - Mean Squared Error for preprocessed_00011-c2649c60.tif: 802.2026079963235
+2025-10-09 10:54:17,595 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00007-4a606178.tif
+2025-10-09 10:54:17,595 - INFO - Mean Squared Error for preprocessed_00007-4a606178.tif: 1226.1199448529412
+2025-10-09 10:54:17,595 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00005-897e5091.tif
+2025-10-09 10:54:17,597 - INFO - Mean Squared Error for preprocessed_00005-897e5091.tif: 706.7343175551471
+2025-10-09 10:54:17,597 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00003-570d0074.tif
+2025-10-09 10:54:17,597 - INFO - Mean Squared Error for preprocessed_00003-570d0074.tif: 942.6506969975491
+2025-10-09 10:54:17,598 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00008-8cdeb968.tif
+2025-10-09 10:54:17,598 - INFO - Mean Squared Error for preprocessed_00008-8cdeb968.tif: 1023.3400543811274
+2025-10-09 10:54:17,598 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00009-d44859eb.tif
+2025-10-09 10:54:17,600 - INFO - Mean Squared Error for preprocessed_00009-d44859eb.tif: 1499.7731119791667
+2025-10-09 10:54:17,600 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00010-5644e032.tif
+2025-10-09 10:54:17,600 - INFO - Mean Squared Error for preprocessed_00010-5644e032.tif: 889.0958180147059
+2025-10-09 10:54:17,602 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00004-ca974273.tif
+2025-10-09 10:54:17,602 - INFO - Mean Squared Error for preprocessed_00004-ca974273.tif: 1245.8346737132354
+2025-10-09 10:54:17,604 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00012-d4dfd38f.tif
+2025-10-09 10:54:17,604 - INFO - Mean Squared Error for preprocessed_00012-d4dfd38f.tif: 1385.2169692095588
+2025-10-09 10:54:17,604 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00013-bec21585.tif
+2025-10-09 10:54:17,607 - INFO - Mean Squared Error for preprocessed_00013-bec21585.tif: 1071.7679419424019
+2025-10-09 10:54:17,607 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00016-d921c5ae.tif
+2025-10-09 10:54:17,608 - INFO - Mean Squared Error for preprocessed_00016-d921c5ae.tif: 1026.6826363357843
+2025-10-09 10:54:17,609 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00015-7cc2e54.tif
+2025-10-09 10:54:17,609 - INFO - Mean Squared Error for preprocessed_00015-7cc2e54.tif: 638.8934589460785
+2025-10-09 10:54:17,610 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00017-395951dd.tif
+2025-10-09 10:54:17,611 - INFO - Mean Squared Error for preprocessed_00017-395951dd.tif: 1348.023494944853
+2025-10-09 10:54:17,612 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00019-86a3aace.tif
+2025-10-09 10:54:17,613 - INFO - Mean Squared Error for preprocessed_00019-86a3aace.tif: 1287.1629136029412
+2025-10-09 10:54:17,613 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00020-5c6536bb.tif
+2025-10-09 10:54:17,613 - INFO - Mean Squared Error for preprocessed_00020-5c6536bb.tif: 1474.6622242647059
+2025-10-09 10:54:17,615 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00018-dacf634.tif
+2025-10-09 10:54:17,616 - INFO - Mean Squared Error for preprocessed_00018-dacf634.tif: 1286.9717562806372
+2025-10-09 10:54:17,616 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00014-f6b93706.tif
+2025-10-09 10:54:17,616 - INFO - Mean Squared Error for preprocessed_00014-f6b93706.tif: 1180.6676432291667
+2025-10-09 10:54:17,616 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00022-f17bc0f.tif
+2025-10-09 10:54:17,619 - INFO - Mean Squared Error for preprocessed_00022-f17bc0f.tif: 1727.7525658700981
+2025-10-09 10:54:17,619 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00024-63e1dad3.tif
+2025-10-09 10:54:17,619 - INFO - Mean Squared Error for preprocessed_00024-63e1dad3.tif: 1402.9533930759803
+2025-10-09 10:54:17,619 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00025-7ec122bc.tif
+2025-10-09 10:54:17,619 - INFO - Mean Squared Error for preprocessed_00025-7ec122bc.tif: 1437.0136910232843
+2025-10-09 10:54:17,619 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00027-35f34ee5.tif
+2025-10-09 10:54:17,620 - INFO - Mean Squared Error for preprocessed_00027-35f34ee5.tif: 1559.9990425857843
+2025-10-09 10:54:17,621 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00028-50a82ee7.tif
+2025-10-09 10:54:17,621 - INFO - Mean Squared Error for preprocessed_00028-50a82ee7.tif: 902.7758310355392
+2025-10-09 10:54:17,621 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00026-6ef05eb8.tif
+2025-10-09 10:54:17,621 - INFO - Mean Squared Error for preprocessed_00026-6ef05eb8.tif: 1037.1194852941176
+2025-10-09 10:54:17,622 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00023-bc8246b5.tif
+2025-10-09 10:54:17,622 - INFO - Mean Squared Error for preprocessed_00023-bc8246b5.tif: 864.1443780637255
+2025-10-09 10:54:17,622 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00029-f492f701.tif
+2025-10-09 10:54:17,622 - INFO - Mean Squared Error for preprocessed_00029-f492f701.tif: 1493.2158969056372
+2025-10-09 10:54:17,625 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00030-7312ecad.tif
+2025-10-09 10:54:17,625 - INFO - Mean Squared Error for preprocessed_00030-7312ecad.tif: 1260.5674211090686
+2025-10-09 10:54:17,625 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00031-eb7058b.tif
+2025-10-09 10:54:17,626 - INFO - Mean Squared Error for preprocessed_00031-eb7058b.tif: 1100.0772824754902
+2025-10-09 10:54:17,626 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00021-d96c06dd.tif
+2025-10-09 10:54:17,626 - INFO - Mean Squared Error for preprocessed_00021-d96c06dd.tif: 1023.5998200061274
+2025-10-09 10:54:17,626 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00041-8f258615.tif
+2025-10-09 10:54:17,626 - INFO - Mean Squared Error for preprocessed_00041-8f258615.tif: 1011.8373353247549
+2025-10-09 10:54:17,626 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00034-85938335.tif
+2025-10-09 10:54:17,628 - INFO - Mean Squared Error for preprocessed_00034-85938335.tif: 1532.0939031862745
+2025-10-09 10:54:17,628 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00037-9ec66cca.tif
+2025-10-09 10:54:17,628 - INFO - Mean Squared Error for preprocessed_00037-9ec66cca.tif: 893.8125957414215
+2025-10-09 10:54:17,630 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00036-57955b6f.tif
+2025-10-09 10:54:17,630 - INFO - Mean Squared Error for preprocessed_00036-57955b6f.tif: 1188.0334137561274
+2025-10-09 10:54:17,631 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00032-8d386c59.tif
+2025-10-09 10:54:17,631 - INFO - Mean Squared Error for preprocessed_00032-8d386c59.tif: 991.4179113051471
+2025-10-09 10:54:17,633 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00033-d906248.tif
+2025-10-09 10:54:17,633 - INFO - Mean Squared Error for preprocessed_00033-d906248.tif: 1076.4461167279412
+2025-10-09 10:54:17,635 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00035-3da70e49.tif
+2025-10-09 10:54:17,635 - INFO - Mean Squared Error for preprocessed_00035-3da70e49.tif: 1047.5819163602941
+2025-10-09 10:54:17,637 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00039-ca6089a6.tif
+2025-10-09 10:54:17,637 - INFO - Mean Squared Error for preprocessed_00039-ca6089a6.tif: 1386.4605736825981
+2025-10-09 10:54:17,637 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00038-f20090a7.tif
+2025-10-09 10:54:17,638 - INFO - Mean Squared Error for preprocessed_00038-f20090a7.tif: 1057.1216873468138
+2025-10-09 10:54:17,639 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00040-35e343e8.tif
+2025-10-09 10:54:17,640 - INFO - Mean Squared Error for preprocessed_00040-35e343e8.tif: 1452.99609375
+2025-10-09 10:54:17,640 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00043-fb9c5dfc.tif
+2025-10-09 10:54:17,640 - INFO - Mean Squared Error for preprocessed_00043-fb9c5dfc.tif: 833.2472234987745
+2025-10-09 10:54:17,641 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00044-943a0bd2.tif
+2025-10-09 10:54:17,643 - INFO - Mean Squared Error for preprocessed_00044-943a0bd2.tif: 1311.4632544424019
+2025-10-09 10:54:17,644 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00045-dafd8b1.tif
+2025-10-09 10:54:17,644 - INFO - Mean Squared Error for preprocessed_00045-dafd8b1.tif: 1594.852979473039
+2025-10-09 10:54:17,646 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00048-87d3e668.tif
+2025-10-09 10:54:17,646 - INFO - Mean Squared Error for preprocessed_00048-87d3e668.tif: 1283.3631472120098
+2025-10-09 10:54:17,647 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00046-699be951.tif
+2025-10-09 10:54:17,647 - INFO - Mean Squared Error for preprocessed_00046-699be951.tif: 1150.7788373161766
+2025-10-09 10:54:17,649 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00050-b32ba3cf.tif
+2025-10-09 10:54:17,649 - INFO - Mean Squared Error for preprocessed_00050-b32ba3cf.tif: 1370.6242915134803
+2025-10-09 10:54:17,650 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00049-f025c6e6.tif
+2025-10-09 10:54:17,650 - INFO - Mean Squared Error for preprocessed_00049-f025c6e6.tif: 1585.676949295343
+2025-10-09 10:54:17,652 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00047-13b10311.tif
+2025-10-09 10:54:17,652 - INFO - Mean Squared Error for preprocessed_00047-13b10311.tif: 1066.8832720588234
+2025-10-09 10:54:17,654 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00051-d9f9a9d9.tif
+2025-10-09 10:54:17,654 - INFO - Mean Squared Error for preprocessed_00051-d9f9a9d9.tif: 1124.171089920343
+2025-10-09 10:54:17,657 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00042-3325c229.tif
+2025-10-09 10:54:17,657 - INFO - Mean Squared Error for preprocessed_00042-3325c229.tif: 1126.0434666053923
+2025-10-09 10:54:18,158 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-09 10:55:08,105 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00060-780a3258.tif
+2025-10-09 10:55:08,106 - INFO - Mean Squared Error for preprocessed_00060-780a3258.tif: 1491.4974532781862
+2025-10-09 10:55:08,106 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00054-efc2ed68.tif
+2025-10-09 10:55:08,106 - INFO - Mean Squared Error for preprocessed_00054-efc2ed68.tif: 1501.6350337009803
+2025-10-09 10:55:08,106 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00055-336c7768.tif
+2025-10-09 10:55:08,106 - INFO - Mean Squared Error for preprocessed_00055-336c7768.tif: 1491.1163832720588
+2025-10-09 10:55:08,106 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00058-326b9171.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00058-326b9171.tif: 884.8946269914215
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00057-750b186d.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00057-750b186d.tif: 1459.9485677083333
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00059-e7cc75af.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00059-e7cc75af.tif: 1383.006165747549
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00053-7e522b4e.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00053-7e522b4e.tif: 1103.0435623468138
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00056-77c23fa8.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00056-77c23fa8.tif: 929.4574333639706
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00052-174b5f46.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00052-174b5f46.tif: 878.9868642769608
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00061-b6337ee.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00061-b6337ee.tif: 1116.5149356617646
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00062-983149ec.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00062-983149ec.tif: 1446.309321384804
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00063-a509a90.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00063-a509a90.tif: 686.5078699448529
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00064-be278402.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00064-be278402.tif: 1288.9631587009803
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00065-5fa1a3ed.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00065-5fa1a3ed.tif: 1634.5326095281862
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00068-8872ada7.tif
+2025-10-09 10:55:08,107 - INFO - Mean Squared Error for preprocessed_00068-8872ada7.tif: 852.0871629901961
+2025-10-09 10:55:08,107 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00066-820c610b.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00066-820c610b.tif: 1158.8406671262255
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00067-16a739bf.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00067-16a739bf.tif: 1176.0079848345588
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00070-e035cab2.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00070-e035cab2.tif: 1510.6208639705883
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00069-9b734e50.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00069-9b734e50.tif: 1195.4556334252452
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00072-872474fb.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00072-872474fb.tif: 994.2527190563726
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00074-c02b170b.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00074-c02b170b.tif: 904.554074754902
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00076-44e02352.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00076-44e02352.tif: 1188.4887408088234
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00073-39683257.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00073-39683257.tif: 1198.1088579963234
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00071-a684a877.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00071-a684a877.tif: 1492.9017693014705
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00077-d51b27ae.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00077-d51b27ae.tif: 1205.0049594056372
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00075-d8f5c231.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00075-d8f5c231.tif: 1467.5133080575981
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00078-758be6c.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00078-758be6c.tif: 731.7488128063726
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00079-7cd87f92.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00079-7cd87f92.tif: 1322.8388863357843
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00080-a007793c.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00080-a007793c.tif: 1633.955269607843
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00088-57ce9128.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00088-57ce9128.tif: 1108.9853324142157
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00081-45d5f81f.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00081-45d5f81f.tif: 1163.151673560049
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00083-c65ac97a.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00083-c65ac97a.tif: 856.3166743259804
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00084-13ee73ed.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00084-13ee73ed.tif: 1238.9153645833333
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00082-a4212ad3.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00082-a4212ad3.tif: 1252.5660615808824
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00086-64cdb12c.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00086-64cdb12c.tif: 1233.1340571384803
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00087-1ef86986.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00087-1ef86986.tif: 1213.5715762867646
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00089-639a7b3a.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00089-639a7b3a.tif: 1098.5678040747548
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00091-d2fb3a14.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00091-d2fb3a14.tif: 1234.8146063112745
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00090-d5473d74.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00090-d5473d74.tif: 1456.940487132353
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00085-3d591e3.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00085-3d591e3.tif: 1561.8736213235295
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00092-3afc035c.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00092-3afc035c.tif: 1434.9034734987745
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00094-5d62f2e8.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00094-5d62f2e8.tif: 1156.6825980392157
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00095-9cc27bdd.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00095-9cc27bdd.tif: 1554.3180338541667
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00093-29bc58da.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00093-29bc58da.tif: 884.8132850796569
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00096-cd994d30.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00096-cd994d30.tif: 1430.840513939951
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00097-b6a8cf77.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00097-b6a8cf77.tif: 1012.5970818014706
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00098-651ebfaf.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00098-651ebfaf.tif: 1696.5845396752452
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00099-df333865.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00099-df333865.tif: 993.6664177389706
+2025-10-09 10:55:08,108 - INFO - Saved aligned image: ./ECC_output_method1_pre/aligned_preprocessed_00100-98250e06.tif
+2025-10-09 10:55:08,108 - INFO - Mean Squared Error for preprocessed_00100-98250e06.tif: 1160.5977519914215
+2025-10-09 10:55:08,609 - INFO - ECC registration completed!
+2025-10-09 11:01:35,631 - INFO - Starting B-spline registration...
+2025-10-09 11:01:41,904 - INFO - User choice for preprocessing for B-spline: y
+2025-10-09 11:01:47,801 - INFO - User input for adjusting parameters: n
+2025-10-09 11:01:47,818 - INFO - Final B-spline preprocessing parameters: CLAHE enabled: True, clipLimit=1.5, tileGridSize=(16, 16), brightness=0, gaussian_kernel=0
+2025-10-09 11:01:49,675 - INFO - Saved preprocessed reference image for B-spline: ./Bspline_preprocess/preprocessed_00001-2a7c9686.tif
+2025-10-09 11:01:49,675 - INFO - Preprocessing all images for B-spline...
+2025-10-09 11:01:49,675 - INFO - Processing preprocessing batch 1/2 (50 images)
+2025-10-09 11:01:49,802 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00006-4eceef4d.tif
+2025-10-09 11:01:49,802 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00001-2a7c9686.tif
+2025-10-09 11:01:49,802 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00004-ca974273.tif
+2025-10-09 11:01:49,804 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00005-897e5091.tif
+2025-10-09 11:01:49,806 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00009-d44859eb.tif
+2025-10-09 11:01:49,807 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00003-570d0074.tif
+2025-10-09 11:01:49,807 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00008-8cdeb968.tif
+2025-10-09 11:01:49,808 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00002-95cdc696.tif
+2025-10-09 11:01:49,809 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00010-5644e032.tif
+2025-10-09 11:01:49,810 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00012-d4dfd38f.tif
+2025-10-09 11:01:49,811 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00011-c2649c60.tif
+2025-10-09 11:01:49,813 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00007-4a606178.tif
+2025-10-09 11:01:49,815 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00015-7cc2e54.tif
+2025-10-09 11:01:49,816 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00014-f6b93706.tif
+2025-10-09 11:01:49,816 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00016-d921c5ae.tif
+2025-10-09 11:01:49,816 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00018-dacf634.tif
+2025-10-09 11:01:49,818 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00020-5c6536bb.tif
+2025-10-09 11:01:49,818 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00017-395951dd.tif
+2025-10-09 11:01:49,819 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00022-f17bc0f.tif
+2025-10-09 11:01:49,820 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00021-d96c06dd.tif
+2025-10-09 11:01:49,820 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00013-bec21585.tif
+2025-10-09 11:01:49,820 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00019-86a3aace.tif
+2025-10-09 11:01:49,821 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00026-6ef05eb8.tif
+2025-10-09 11:01:49,821 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00023-bc8246b5.tif
+2025-10-09 11:01:49,821 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00024-63e1dad3.tif
+2025-10-09 11:01:49,823 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00025-7ec122bc.tif
+2025-10-09 11:01:49,823 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00029-f492f701.tif
+2025-10-09 11:01:49,824 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00028-50a82ee7.tif
+2025-10-09 11:01:49,824 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00027-35f34ee5.tif
+2025-10-09 11:01:49,824 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00030-7312ecad.tif
+2025-10-09 11:01:49,825 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00035-3da70e49.tif
+2025-10-09 11:01:49,825 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00031-eb7058b.tif
+2025-10-09 11:01:49,827 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00036-57955b6f.tif
+2025-10-09 11:01:49,828 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00033-d906248.tif
+2025-10-09 11:01:49,828 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00032-8d386c59.tif
+2025-10-09 11:01:49,830 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00037-9ec66cca.tif
+2025-10-09 11:01:49,830 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00038-f20090a7.tif
+2025-10-09 11:01:49,830 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00034-85938335.tif
+2025-10-09 11:01:49,830 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00044-943a0bd2.tif
+2025-10-09 11:01:49,832 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00040-35e343e8.tif
+2025-10-09 11:01:49,834 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00042-3325c229.tif
+2025-10-09 11:01:49,836 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00039-ca6089a6.tif
+2025-10-09 11:01:49,839 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00046-699be951.tif
+2025-10-09 11:01:49,841 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00043-fb9c5dfc.tif
+2025-10-09 11:01:49,842 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00045-dafd8b1.tif
+2025-10-09 11:01:49,844 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00047-13b10311.tif
+2025-10-09 11:01:49,846 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00041-8f258615.tif
+2025-10-09 11:01:49,846 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00049-f025c6e6.tif
+2025-10-09 11:01:49,847 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00048-87d3e668.tif
+2025-10-09 11:01:49,847 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00050-b32ba3cf.tif
+2025-10-09 11:01:50,348 - INFO - Processing preprocessing batch 2/2 (50 images)
+2025-10-09 11:01:50,486 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00055-336c7768.tif
+2025-10-09 11:01:50,486 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00060-780a3258.tif
+2025-10-09 11:01:50,488 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00054-efc2ed68.tif
+2025-10-09 11:01:50,490 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00058-326b9171.tif
+2025-10-09 11:01:50,491 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00053-7e522b4e.tif
+2025-10-09 11:01:50,491 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00059-e7cc75af.tif
+2025-10-09 11:01:50,493 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00056-77c23fa8.tif
+2025-10-09 11:01:50,493 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00052-174b5f46.tif
+2025-10-09 11:01:50,494 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00057-750b186d.tif
+2025-10-09 11:01:50,494 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00063-a509a90.tif
+2025-10-09 11:01:50,495 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00061-b6337ee.tif
+2025-10-09 11:01:50,496 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00062-983149ec.tif
+2025-10-09 11:01:50,497 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00065-5fa1a3ed.tif
+2025-10-09 11:01:50,497 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00051-d9f9a9d9.tif
+2025-10-09 11:01:50,497 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00066-820c610b.tif
+2025-10-09 11:01:50,498 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00067-16a739bf.tif
+2025-10-09 11:01:50,499 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00069-9b734e50.tif
+2025-10-09 11:01:50,500 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00064-be278402.tif
+2025-10-09 11:01:50,500 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00068-8872ada7.tif
+2025-10-09 11:01:50,500 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00070-e035cab2.tif
+2025-10-09 11:01:50,501 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00072-872474fb.tif
+2025-10-09 11:01:50,501 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00071-a684a877.tif
+2025-10-09 11:01:50,501 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00074-c02b170b.tif
+2025-10-09 11:01:50,502 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00075-d8f5c231.tif
+2025-10-09 11:01:50,502 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00076-44e02352.tif
+2025-10-09 11:01:50,502 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00073-39683257.tif
+2025-10-09 11:01:50,502 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00078-758be6c.tif
+2025-10-09 11:01:50,505 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00077-d51b27ae.tif
+2025-10-09 11:01:50,506 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00082-a4212ad3.tif
+2025-10-09 11:01:50,506 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00085-3d591e3.tif
+2025-10-09 11:01:50,507 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00081-45d5f81f.tif
+2025-10-09 11:01:50,507 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00083-c65ac97a.tif
+2025-10-09 11:01:50,507 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00086-64cdb12c.tif
+2025-10-09 11:01:50,509 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00080-a007793c.tif
+2025-10-09 11:01:50,509 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00084-13ee73ed.tif
+2025-10-09 11:01:50,509 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00079-7cd87f92.tif
+2025-10-09 11:01:50,510 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00087-1ef86986.tif
+2025-10-09 11:01:50,510 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00091-d2fb3a14.tif
+2025-10-09 11:01:50,510 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00092-3afc035c.tif
+2025-10-09 11:01:50,512 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00088-57ce9128.tif
+2025-10-09 11:01:50,512 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00089-639a7b3a.tif
+2025-10-09 11:01:50,512 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00090-d5473d74.tif
+2025-10-09 11:01:50,512 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00093-29bc58da.tif
+2025-10-09 11:01:50,513 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00094-5d62f2e8.tif
+2025-10-09 11:01:50,513 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00095-9cc27bdd.tif
+2025-10-09 11:01:50,513 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00096-cd994d30.tif
+2025-10-09 11:01:50,515 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00099-df333865.tif
+2025-10-09 11:01:50,515 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00097-b6a8cf77.tif
+2025-10-09 11:01:50,515 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00098-651ebfaf.tif
+2025-10-09 11:01:50,515 - INFO - Saved preprocessed image for B-spline: ./Bspline_preprocess/preprocessed_00100-98250e06.tif
+2025-10-09 11:01:51,016 - INFO - B-spline preprocessing completed!
+2025-10-09 11:01:51,021 - INFO - Found 100 images for B-spline registration
+2025-10-09 11:01:51,040 - INFO - Starting B-spline registration with 10 workers...
+2025-10-09 11:03:46,715 - INFO - Frame 0: Fixed image saved
+2025-10-09 11:03:46,716 - INFO - Frame 1: Registration completed
+2025-10-09 11:03:46,716 - INFO - Frame 2: Registration completed
+2025-10-09 11:03:46,716 - INFO - Frame 3: Registration completed
+2025-10-09 11:03:46,718 - INFO - Frame 4: Registration completed
+2025-10-09 11:03:46,718 - INFO - Frame 5: Registration completed
+2025-10-09 11:03:46,718 - INFO - Frame 6: Registration completed
+2025-10-09 11:03:46,718 - INFO - Frame 7: Registration completed
+2025-10-09 11:03:46,718 - INFO - Frame 8: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 9: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 10: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 11: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 12: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 13: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 14: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 15: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 16: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 17: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 18: Registration completed
+2025-10-09 11:03:46,720 - INFO - Frame 19: Registration completed
+2025-10-09 11:03:46,722 - INFO - Frame 20: Registration completed
+2025-10-09 11:03:46,722 - INFO - Frame 21: Registration completed
+2025-10-09 11:03:46,722 - INFO - Frame 22: Registration completed
+2025-10-09 11:03:46,722 - INFO - Frame 23: Registration completed
+2025-10-09 11:03:46,724 - INFO - Frame 24: Registration completed
+2025-10-09 11:03:46,725 - INFO - Frame 25: Registration completed
+2025-10-09 11:03:46,725 - INFO - Frame 26: Registration completed
+2025-10-09 11:03:46,725 - INFO - Frame 27: Registration completed
+2025-10-09 11:03:46,725 - INFO - Frame 28: Registration completed
+2025-10-09 11:03:46,727 - INFO - Frame 29: Registration completed
+2025-10-09 11:03:46,727 - INFO - Frame 30: Registration completed
+2025-10-09 11:03:46,727 - INFO - Frame 31: Registration completed
+2025-10-09 11:03:46,727 - INFO - Frame 32: Registration completed
+2025-10-09 11:03:46,727 - INFO - Frame 33: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 34: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 35: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 36: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 37: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 38: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 39: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 40: Registration completed
+2025-10-09 11:03:46,729 - INFO - Frame 41: Registration completed
+2025-10-09 11:03:46,730 - INFO - Frame 42: Registration completed
+2025-10-09 11:03:46,730 - INFO - Frame 43: Registration completed
+2025-10-09 11:03:46,730 - INFO - Frame 44: Registration completed
+2025-10-09 11:03:46,730 - INFO - Frame 45: Registration completed
+2025-10-09 11:03:46,730 - INFO - Frame 46: Registration completed
+2025-10-09 11:03:46,732 - INFO - Frame 47: Registration completed
+2025-10-09 11:03:46,732 - INFO - Frame 48: Registration completed
+2025-10-09 11:03:46,732 - INFO - Frame 49: Registration completed
+2025-10-09 11:03:46,732 - INFO - Frame 50: Registration completed
+2025-10-09 11:03:46,732 - INFO - Frame 51: Registration completed
+2025-10-09 11:03:46,733 - INFO - Frame 52: Registration completed
+2025-10-09 11:03:46,733 - INFO - Frame 53: Registration completed
+2025-10-09 11:03:46,733 - INFO - Frame 54: Registration completed
+2025-10-09 11:03:46,733 - INFO - Frame 55: Registration completed
+2025-10-09 11:03:46,735 - INFO - Frame 56: Registration completed
+2025-10-09 11:03:46,736 - INFO - Frame 57: Registration completed
+2025-10-09 11:03:46,737 - INFO - Frame 58: Registration completed
+2025-10-09 11:03:46,739 - INFO - Frame 59: Registration completed
+2025-10-09 11:03:46,740 - INFO - Frame 60: Registration completed
+2025-10-09 11:03:46,742 - INFO - Frame 61: Registration completed
+2025-10-09 11:03:46,743 - INFO - Frame 62: Registration completed
+2025-10-09 11:03:46,745 - INFO - Frame 63: Registration completed
+2025-10-09 11:03:46,746 - INFO - Frame 64: Registration completed
+2025-10-09 11:03:46,746 - INFO - Frame 65: Registration completed
+2025-10-09 11:03:46,747 - INFO - Frame 66: Registration completed
+2025-10-09 11:03:46,747 - INFO - Frame 67: Registration completed
+2025-10-09 11:03:46,749 - INFO - Frame 68: Registration completed
+2025-10-09 11:03:46,749 - INFO - Frame 69: Registration completed
+2025-10-09 11:03:46,750 - INFO - Frame 70: Registration completed
+2025-10-09 11:03:46,750 - INFO - Frame 71: Registration completed
+2025-10-09 11:03:46,751 - INFO - Frame 72: Registration completed
+2025-10-09 11:03:46,751 - INFO - Frame 73: Registration completed
+2025-10-09 11:03:46,753 - INFO - Frame 74: Registration completed
+2025-10-09 11:03:46,753 - INFO - Frame 75: Registration completed
+2025-10-09 11:03:46,753 - INFO - Frame 76: Registration completed
+2025-10-09 11:03:46,755 - INFO - Frame 77: Registration completed
+2025-10-09 11:03:46,755 - INFO - Frame 78: Registration completed
+2025-10-09 11:03:46,756 - INFO - Frame 79: Registration completed
+2025-10-09 11:03:46,758 - INFO - Frame 80: Registration completed
+2025-10-09 11:03:46,759 - INFO - Frame 81: Registration completed
+2025-10-09 11:03:46,759 - INFO - Frame 82: Registration completed
+2025-10-09 11:03:46,760 - INFO - Frame 83: Registration completed
+2025-10-09 11:03:46,760 - INFO - Frame 84: Registration completed
+2025-10-09 11:03:46,762 - INFO - Frame 85: Registration completed
+2025-10-09 11:03:46,762 - INFO - Frame 86: Registration completed
+2025-10-09 11:03:46,763 - INFO - Frame 87: Registration completed
+2025-10-09 11:03:46,763 - INFO - Frame 88: Registration completed
+2025-10-09 11:03:46,765 - INFO - Frame 89: Registration completed
+2025-10-09 11:03:46,765 - INFO - Frame 90: Registration completed
+2025-10-09 11:03:46,766 - INFO - Frame 91: Registration completed
+2025-10-09 11:03:46,766 - INFO - Frame 92: Registration completed
+2025-10-09 11:03:46,768 - INFO - Frame 93: Registration completed
+2025-10-09 11:03:46,768 - INFO - Frame 94: Registration completed
+2025-10-09 11:03:46,770 - INFO - Frame 95: Registration completed
+2025-10-09 11:03:46,770 - INFO - Frame 96: Registration completed
+2025-10-09 11:03:46,771 - INFO - Frame 97: Registration completed
+2025-10-09 11:03:46,771 - INFO - Frame 98: Registration completed
+2025-10-09 11:03:46,772 - INFO - Frame 99: Registration completed
+2025-10-09 11:03:46,772 - INFO - B-spline registration completed!
+2025-10-09 11:03:46,774 - INFO - B-spline registration completed!
+2025-10-09 11:12:03,845 - INFO - Starting ECC registration...
+2025-10-09 11:12:09,814 - INFO - User choice for preprocessing for ECC: n
+2025-10-09 11:12:09,814 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-09 11:12:09,817 - INFO - Using 10 parallel workers for ECC alignment
+2025-10-09 11:12:09,857 - INFO - Saved reference image: ./ECC_output_method1_pre/aligned_00001-2a7c9686.tif
+2025-10-09 11:12:09,858 - INFO - Processing 99 images for ECC alignment
+2025-10-09 11:12:09,859 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-09 11:12:54,510 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00007-4a606178.tif
+2025-10-09 11:12:54,510 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-09 11:12:54,510 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00006-4eceef4d.tif
+2025-10-09 11:12:54,510 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-09 11:12:54,510 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00003-570d0074.tif
+2025-10-09 11:12:54,510 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-09 11:12:54,510 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00011-c2649c60.tif
+2025-10-09 11:12:54,510 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-09 11:12:54,510 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00002-95cdc696.tif
+2025-10-09 11:12:54,510 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-09 11:12:54,513 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00009-d44859eb.tif
+2025-10-09 11:12:54,514 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-09 11:12:54,514 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00008-8cdeb968.tif
+2025-10-09 11:12:54,514 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-09 11:12:54,514 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00005-897e5091.tif
+2025-10-09 11:12:54,516 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-09 11:12:54,516 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00004-ca974273.tif
+2025-10-09 11:12:54,516 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-09 11:12:54,516 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00013-bec21585.tif
+2025-10-09 11:12:54,516 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-09 11:12:54,516 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00010-5644e032.tif
+2025-10-09 11:12:54,516 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-09 11:12:54,516 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00012-d4dfd38f.tif
+2025-10-09 11:12:54,518 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-09 11:12:54,518 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00015-7cc2e54.tif
+2025-10-09 11:12:54,518 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-09 11:12:54,518 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00016-d921c5ae.tif
+2025-10-09 11:12:54,518 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-09 11:12:54,518 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00017-395951dd.tif
+2025-10-09 11:12:54,518 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-09 11:12:54,518 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00019-86a3aace.tif
+2025-10-09 11:12:54,519 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-09 11:12:54,519 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00020-5c6536bb.tif
+2025-10-09 11:12:54,519 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-09 11:12:54,519 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00014-f6b93706.tif
+2025-10-09 11:12:54,519 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-09 11:12:54,519 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00018-dacf634.tif
+2025-10-09 11:12:54,519 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-09 11:12:54,520 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00021-d96c06dd.tif
+2025-10-09 11:12:54,520 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-09 11:12:54,520 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00022-f17bc0f.tif
+2025-10-09 11:12:54,520 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-09 11:12:54,520 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00023-bc8246b5.tif
+2025-10-09 11:12:54,520 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-09 11:12:54,521 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00024-63e1dad3.tif
+2025-10-09 11:12:54,521 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-09 11:12:54,522 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00025-7ec122bc.tif
+2025-10-09 11:12:54,522 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-09 11:12:54,524 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00026-6ef05eb8.tif
+2025-10-09 11:12:54,524 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-09 11:12:54,524 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00027-35f34ee5.tif
+2025-10-09 11:12:54,524 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-09 11:12:54,525 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00028-50a82ee7.tif
+2025-10-09 11:12:54,525 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-09 11:12:54,525 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00030-7312ecad.tif
+2025-10-09 11:12:54,525 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-09 11:12:54,526 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00031-eb7058b.tif
+2025-10-09 11:12:54,526 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-09 11:12:54,526 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00032-8d386c59.tif
+2025-10-09 11:12:54,526 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-09 11:12:54,527 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00033-d906248.tif
+2025-10-09 11:12:54,527 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-09 11:12:54,527 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00035-3da70e49.tif
+2025-10-09 11:12:54,529 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-09 11:12:54,529 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00036-57955b6f.tif
+2025-10-09 11:12:54,529 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-09 11:12:54,529 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00029-f492f701.tif
+2025-10-09 11:12:54,531 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-09 11:12:54,531 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00034-85938335.tif
+2025-10-09 11:12:54,531 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-09 11:12:54,531 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00037-9ec66cca.tif
+2025-10-09 11:12:54,532 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-09 11:12:54,532 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00038-f20090a7.tif
+2025-10-09 11:12:54,532 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-09 11:12:54,532 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00039-ca6089a6.tif
+2025-10-09 11:12:54,533 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-09 11:12:54,533 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00040-35e343e8.tif
+2025-10-09 11:12:54,533 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-09 11:12:54,533 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00041-8f258615.tif
+2025-10-09 11:12:54,533 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-09 11:12:54,535 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00042-3325c229.tif
+2025-10-09 11:12:54,535 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-09 11:12:54,535 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00043-fb9c5dfc.tif
+2025-10-09 11:12:54,535 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-09 11:12:54,536 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00044-943a0bd2.tif
+2025-10-09 11:12:54,536 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-09 11:12:54,536 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00046-699be951.tif
+2025-10-09 11:12:54,536 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-09 11:12:54,537 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00048-87d3e668.tif
+2025-10-09 11:12:54,537 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-09 11:12:54,537 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00047-13b10311.tif
+2025-10-09 11:12:54,537 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-09 11:12:54,539 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00045-dafd8b1.tif
+2025-10-09 11:12:54,539 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-09 11:12:54,539 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00049-f025c6e6.tif
+2025-10-09 11:12:54,539 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-09 11:12:54,540 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00050-b32ba3cf.tif
+2025-10-09 11:12:54,540 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-09 11:12:54,540 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00051-d9f9a9d9.tif
+2025-10-09 11:12:54,540 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-09 11:12:55,041 - INFO - Processing ECC alignment batch 2/2 (49 images)
+2025-10-09 11:13:43,209 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00060-780a3258.tif
+2025-10-09 11:13:43,209 - INFO - Mean Squared Error for 00060-780a3258.tif: 650.1544500612745
+2025-10-09 11:13:43,209 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00061-b6337ee.tif
+2025-10-09 11:13:43,211 - INFO - Mean Squared Error for 00061-b6337ee.tif: 444.70222503063724
+2025-10-09 11:13:43,211 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00052-174b5f46.tif
+2025-10-09 11:13:43,211 - INFO - Mean Squared Error for 00052-174b5f46.tif: 369.7972196691176
+2025-10-09 11:13:43,211 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00059-e7cc75af.tif
+2025-10-09 11:13:43,211 - INFO - Mean Squared Error for 00059-e7cc75af.tif: 550.9697457107843
+2025-10-09 11:13:43,211 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00057-750b186d.tif
+2025-10-09 11:13:43,211 - INFO - Mean Squared Error for 00057-750b186d.tif: 567.6007965686274
+2025-10-09 11:13:43,211 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00058-326b9171.tif
+2025-10-09 11:13:43,211 - INFO - Mean Squared Error for 00058-326b9171.tif: 382.7174862132353
+2025-10-09 11:13:43,211 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00054-efc2ed68.tif
+2025-10-09 11:13:43,213 - INFO - Mean Squared Error for 00054-efc2ed68.tif: 612.1869829963235
+2025-10-09 11:13:43,213 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00053-7e522b4e.tif
+2025-10-09 11:13:43,213 - INFO - Mean Squared Error for 00053-7e522b4e.tif: 452.7053462009804
+2025-10-09 11:13:43,214 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00056-77c23fa8.tif
+2025-10-09 11:13:43,214 - INFO - Mean Squared Error for 00056-77c23fa8.tif: 395.5700635723039
+2025-10-09 11:13:43,214 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00055-336c7768.tif
+2025-10-09 11:13:43,215 - INFO - Mean Squared Error for 00055-336c7768.tif: 606.2823797487745
+2025-10-09 11:13:43,215 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00069-9b734e50.tif
+2025-10-09 11:13:43,215 - INFO - Mean Squared Error for 00069-9b734e50.tif: 485.49128753063724
+2025-10-09 11:13:43,216 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00063-a509a90.tif
+2025-10-09 11:13:43,216 - INFO - Mean Squared Error for 00063-a509a90.tif: 293.91812193627453
+2025-10-09 11:13:43,216 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00064-be278402.tif
+2025-10-09 11:13:43,218 - INFO - Mean Squared Error for 00064-be278402.tif: 557.4526079963235
+2025-10-09 11:13:43,219 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00062-983149ec.tif
+2025-10-09 11:13:43,219 - INFO - Mean Squared Error for 00062-983149ec.tif: 571.5061657475491
+2025-10-09 11:13:43,221 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00066-820c610b.tif
+2025-10-09 11:13:43,221 - INFO - Mean Squared Error for 00066-820c610b.tif: 474.5172526041667
+2025-10-09 11:13:43,221 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00067-16a739bf.tif
+2025-10-09 11:13:43,222 - INFO - Mean Squared Error for 00067-16a739bf.tif: 437.9525888480392
+2025-10-09 11:13:43,222 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00065-5fa1a3ed.tif
+2025-10-09 11:13:43,224 - INFO - Mean Squared Error for 00065-5fa1a3ed.tif: 651.2582529105392
+2025-10-09 11:13:43,225 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00070-e035cab2.tif
+2025-10-09 11:13:43,227 - INFO - Mean Squared Error for 00070-e035cab2.tif: 612.2984834558823
+2025-10-09 11:13:43,227 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00068-8872ada7.tif
+2025-10-09 11:13:43,227 - INFO - Mean Squared Error for 00068-8872ada7.tif: 403.8431946997549
+2025-10-09 11:13:43,227 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00074-c02b170b.tif
+2025-10-09 11:13:43,227 - INFO - Mean Squared Error for 00074-c02b170b.tif: 380.61755131740193
+2025-10-09 11:13:43,228 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00075-d8f5c231.tif
+2025-10-09 11:13:43,228 - INFO - Mean Squared Error for 00075-d8f5c231.tif: 637.5334137561274
+2025-10-09 11:13:43,228 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00072-872474fb.tif
+2025-10-09 11:13:43,230 - INFO - Mean Squared Error for 00072-872474fb.tif: 406.09202665441177
+2025-10-09 11:13:43,230 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00076-44e02352.tif
+2025-10-09 11:13:43,230 - INFO - Mean Squared Error for 00076-44e02352.tif: 487.01187193627453
+2025-10-09 11:13:43,232 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00077-d51b27ae.tif
+2025-10-09 11:13:43,232 - INFO - Mean Squared Error for 00077-d51b27ae.tif: 482.3189146752451
+2025-10-09 11:13:43,232 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00073-39683257.tif
+2025-10-09 11:13:43,232 - INFO - Mean Squared Error for 00073-39683257.tif: 488.0304074754902
+2025-10-09 11:13:43,232 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00078-758be6c.tif
+2025-10-09 11:13:43,232 - INFO - Mean Squared Error for 00078-758be6c.tif: 328.77255667892155
+2025-10-09 11:13:43,234 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00079-7cd87f92.tif
+2025-10-09 11:13:43,235 - INFO - Mean Squared Error for 00079-7cd87f92.tif: 569.2636910232843
+2025-10-09 11:13:43,235 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00080-a007793c.tif
+2025-10-09 11:13:43,236 - INFO - Mean Squared Error for 00080-a007793c.tif: 664.7737438725491
+2025-10-09 11:13:43,236 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00083-c65ac97a.tif
+2025-10-09 11:13:43,236 - INFO - Mean Squared Error for 00083-c65ac97a.tif: 409.59982000612746
+2025-10-09 11:13:43,237 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00071-a684a877.tif
+2025-10-09 11:13:43,237 - INFO - Mean Squared Error for 00071-a684a877.tif: 616.6749961703431
+2025-10-09 11:13:43,237 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00081-45d5f81f.tif
+2025-10-09 11:13:43,239 - INFO - Mean Squared Error for 00081-45d5f81f.tif: 486.97506893382354
+2025-10-09 11:13:43,240 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00082-a4212ad3.tif
+2025-10-09 11:13:43,242 - INFO - Mean Squared Error for 00082-a4212ad3.tif: 462.3610791973039
+2025-10-09 11:13:43,242 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00084-13ee73ed.tif
+2025-10-09 11:13:43,242 - INFO - Mean Squared Error for 00084-13ee73ed.tif: 520.2454427083334
+2025-10-09 11:13:43,243 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00088-57ce9128.tif
+2025-10-09 11:13:43,243 - INFO - Mean Squared Error for 00088-57ce9128.tif: 480.5137101715686
+2025-10-09 11:13:43,243 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00086-64cdb12c.tif
+2025-10-09 11:13:43,245 - INFO - Mean Squared Error for 00086-64cdb12c.tif: 490.9475337009804
+2025-10-09 11:13:43,245 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00087-1ef86986.tif
+2025-10-09 11:13:43,245 - INFO - Mean Squared Error for 00087-1ef86986.tif: 477.179017310049
+2025-10-09 11:13:43,245 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00085-3d591e3.tif
+2025-10-09 11:13:43,245 - INFO - Mean Squared Error for 00085-3d591e3.tif: 638.3701363357843
+2025-10-09 11:13:43,245 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00089-639a7b3a.tif
+2025-10-09 11:13:43,245 - INFO - Mean Squared Error for 00089-639a7b3a.tif: 450.1790939031863
+2025-10-09 11:13:43,246 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00090-d5473d74.tif
+2025-10-09 11:13:43,246 - INFO - Mean Squared Error for 00090-d5473d74.tif: 609.2694163602941
+2025-10-09 11:13:43,246 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00093-29bc58da.tif
+2025-10-09 11:13:43,247 - INFO - Mean Squared Error for 00093-29bc58da.tif: 406.74337469362746
+2025-10-09 11:13:43,247 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00092-3afc035c.tif
+2025-10-09 11:13:43,247 - INFO - Mean Squared Error for 00092-3afc035c.tif: 584.4498123468137
+2025-10-09 11:13:43,247 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00094-5d62f2e8.tif
+2025-10-09 11:13:43,247 - INFO - Mean Squared Error for 00094-5d62f2e8.tif: 477.34744561887254
+2025-10-09 11:13:43,248 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00095-9cc27bdd.tif
+2025-10-09 11:13:43,249 - INFO - Mean Squared Error for 00095-9cc27bdd.tif: 627.3289675245098
+2025-10-09 11:13:43,249 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00091-d2fb3a14.tif
+2025-10-09 11:13:43,249 - INFO - Mean Squared Error for 00091-d2fb3a14.tif: 508.7870519301471
+2025-10-09 11:13:43,251 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00098-651ebfaf.tif
+2025-10-09 11:13:43,251 - INFO - Mean Squared Error for 00098-651ebfaf.tif: 663.9508846507352
+2025-10-09 11:13:43,251 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00096-cd994d30.tif
+2025-10-09 11:13:43,252 - INFO - Mean Squared Error for 00096-cd994d30.tif: 583.5621170343137
+2025-10-09 11:13:43,252 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00099-df333865.tif
+2025-10-09 11:13:43,252 - INFO - Mean Squared Error for 00099-df333865.tif: 436.8008386948529
+2025-10-09 11:13:43,253 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00097-b6a8cf77.tif
+2025-10-09 11:13:43,253 - INFO - Mean Squared Error for 00097-b6a8cf77.tif: 390.7509382659314
+2025-10-09 11:13:43,253 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00100-98250e06.tif
+2025-10-09 11:13:43,254 - INFO - Mean Squared Error for 00100-98250e06.tif: 470.915345435049
+2025-10-09 11:13:43,756 - INFO - ECC registration completed!
+2025-10-09 11:13:58,372 - INFO - Starting ECC registration...
+2025-10-09 11:14:00,998 - INFO - User choice for preprocessing for ECC: n
+2025-10-09 11:14:00,998 - INFO - Skipping preprocessing for ECC, using original images.
+2025-10-09 11:14:01,000 - INFO - Using 10 parallel workers for ECC alignment
+2025-10-09 11:14:01,020 - INFO - Saved reference image: ./ECC_output_method1_pre/ECC_00001-2a7c9686.tif
+2025-10-09 11:14:01,020 - INFO - Processing 99 images for ECC alignment
+2025-10-09 11:14:01,022 - INFO - Processing ECC alignment batch 1/2 (50 images)
+2025-10-09 11:14:55,975 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00006-4eceef4d.tif
+2025-10-09 11:14:55,975 - INFO - Mean Squared Error for 00006-4eceef4d.tif: 299.48584941789215
+2025-10-09 11:14:55,977 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00005-897e5091.tif
+2025-10-09 11:14:55,978 - INFO - Mean Squared Error for 00005-897e5091.tif: 326.5152803308824
+2025-10-09 11:14:55,980 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00007-4a606178.tif
+2025-10-09 11:14:55,981 - INFO - Mean Squared Error for 00007-4a606178.tif: 522.1332337622549
+2025-10-09 11:14:55,983 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00004-ca974273.tif
+2025-10-09 11:14:55,983 - INFO - Mean Squared Error for 00004-ca974273.tif: 493.53982843137254
+2025-10-09 11:14:55,984 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00008-8cdeb968.tif
+2025-10-09 11:14:55,984 - INFO - Mean Squared Error for 00008-8cdeb968.tif: 438.7253178615196
+2025-10-09 11:14:55,984 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00011-c2649c60.tif
+2025-10-09 11:14:55,984 - INFO - Mean Squared Error for 00011-c2649c60.tif: 335.0414368872549
+2025-10-09 11:14:55,984 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00003-570d0074.tif
+2025-10-09 11:14:55,985 - INFO - Mean Squared Error for 00003-570d0074.tif: 391.6894339767157
+2025-10-09 11:14:55,985 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00009-d44859eb.tif
+2025-10-09 11:14:55,985 - INFO - Mean Squared Error for 00009-d44859eb.tif: 585.7598422181372
+2025-10-09 11:14:55,985 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00002-95cdc696.tif
+2025-10-09 11:14:55,985 - INFO - Mean Squared Error for 00002-95cdc696.tif: 394.60694316789215
+2025-10-09 11:14:55,987 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00010-5644e032.tif
+2025-10-09 11:14:55,987 - INFO - Mean Squared Error for 00010-5644e032.tif: 389.5576746323529
+2025-10-09 11:14:55,987 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00012-d4dfd38f.tif
+2025-10-09 11:14:55,988 - INFO - Mean Squared Error for 00012-d4dfd38f.tif: 568.175168504902
+2025-10-09 11:14:55,988 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00016-d921c5ae.tif
+2025-10-09 11:14:55,988 - INFO - Mean Squared Error for 00016-d921c5ae.tif: 452.1275467218137
+2025-10-09 11:14:55,990 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00014-f6b93706.tif
+2025-10-09 11:14:55,990 - INFO - Mean Squared Error for 00014-f6b93706.tif: 489.24008118872547
+2025-10-09 11:14:55,990 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00015-7cc2e54.tif
+2025-10-09 11:14:55,991 - INFO - Mean Squared Error for 00015-7cc2e54.tif: 270.9524739583333
+2025-10-09 11:14:55,991 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00013-bec21585.tif
+2025-10-09 11:14:55,991 - INFO - Mean Squared Error for 00013-bec21585.tif: 448.38369332107845
+2025-10-09 11:14:55,993 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00017-395951dd.tif
+2025-10-09 11:14:55,993 - INFO - Mean Squared Error for 00017-395951dd.tif: 549.4008310355392
+2025-10-09 11:14:55,993 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00018-dacf634.tif
+2025-10-09 11:14:55,994 - INFO - Mean Squared Error for 00018-dacf634.tif: 535.552734375
+2025-10-09 11:14:55,994 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00019-86a3aace.tif
+2025-10-09 11:14:55,994 - INFO - Mean Squared Error for 00019-86a3aace.tif: 540.7931985294117
+2025-10-09 11:14:55,995 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00020-5c6536bb.tif
+2025-10-09 11:14:55,995 - INFO - Mean Squared Error for 00020-5c6536bb.tif: 601.2168734681372
+2025-10-09 11:14:55,995 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00023-bc8246b5.tif
+2025-10-09 11:14:55,996 - INFO - Mean Squared Error for 00023-bc8246b5.tif: 391.3914675245098
+2025-10-09 11:14:55,997 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00024-63e1dad3.tif
+2025-10-09 11:14:55,997 - INFO - Mean Squared Error for 00024-63e1dad3.tif: 582.1958295036765
+2025-10-09 11:14:55,998 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00025-7ec122bc.tif
+2025-10-09 11:14:55,998 - INFO - Mean Squared Error for 00025-7ec122bc.tif: 585.6749004289215
+2025-10-09 11:14:55,998 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00026-6ef05eb8.tif
+2025-10-09 11:14:55,999 - INFO - Mean Squared Error for 00026-6ef05eb8.tif: 415.8203699448529
+2025-10-09 11:14:56,001 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00027-35f34ee5.tif
+2025-10-09 11:14:56,001 - INFO - Mean Squared Error for 00027-35f34ee5.tif: 606.4331150428922
+2025-10-09 11:14:56,002 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00022-f17bc0f.tif
+2025-10-09 11:14:56,002 - INFO - Mean Squared Error for 00022-f17bc0f.tif: 645.4364659926471
+2025-10-09 11:14:56,002 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00028-50a82ee7.tif
+2025-10-09 11:14:56,003 - INFO - Mean Squared Error for 00028-50a82ee7.tif: 374.85047104779414
+2025-10-09 11:14:56,003 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00029-f492f701.tif
+2025-10-09 11:14:56,003 - INFO - Mean Squared Error for 00029-f492f701.tif: 596.7784160539215
+2025-10-09 11:14:56,005 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00030-7312ecad.tif
+2025-10-09 11:14:56,005 - INFO - Mean Squared Error for 00030-7312ecad.tif: 516.7303155637255
+2025-10-09 11:14:56,005 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00021-d96c06dd.tif
+2025-10-09 11:14:56,006 - INFO - Mean Squared Error for 00021-d96c06dd.tif: 414.9325597426471
+2025-10-09 11:14:56,006 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00031-eb7058b.tif
+2025-10-09 11:14:56,006 - INFO - Mean Squared Error for 00031-eb7058b.tif: 453.3893037683824
+2025-10-09 11:14:56,007 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00033-d906248.tif
+2025-10-09 11:14:56,007 - INFO - Mean Squared Error for 00033-d906248.tif: 431.3910271139706
+2025-10-09 11:14:56,008 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00034-85938335.tif
+2025-10-09 11:14:56,009 - INFO - Mean Squared Error for 00034-85938335.tif: 609.2755821078431
+2025-10-09 11:14:56,009 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00032-8d386c59.tif
+2025-10-09 11:14:56,009 - INFO - Mean Squared Error for 00032-8d386c59.tif: 441.5171377144608
+2025-10-09 11:14:56,009 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00035-3da70e49.tif
+2025-10-09 11:14:56,009 - INFO - Mean Squared Error for 00035-3da70e49.tif: 423.19933363970586
+2025-10-09 11:14:56,009 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00036-57955b6f.tif
+2025-10-09 11:14:56,009 - INFO - Mean Squared Error for 00036-57955b6f.tif: 492.4077818627451
+2025-10-09 11:14:56,009 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00039-ca6089a6.tif
+2025-10-09 11:14:56,009 - INFO - Mean Squared Error for 00039-ca6089a6.tif: 588.7875880821078
+2025-10-09 11:14:56,009 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00038-f20090a7.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00038-f20090a7.tif: 433.7896943933824
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00040-35e343e8.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00040-35e343e8.tif: 630.1410079656863
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00037-9ec66cca.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00037-9ec66cca.tif: 407.4569738051471
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00044-943a0bd2.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00044-943a0bd2.tif: 545.8352290134804
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00043-fb9c5dfc.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00043-fb9c5dfc.tif: 362.2241881127451
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00042-3325c229.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00042-3325c229.tif: 483.525390625
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00041-8f258615.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00041-8f258615.tif: 425.2597081801471
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00045-dafd8b1.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00045-dafd8b1.tif: 681.4881855085785
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00046-699be951.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00046-699be951.tif: 467.8609834558824
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00047-13b10311.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00047-13b10311.tif: 433.6897786458333
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00048-87d3e668.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00048-87d3e668.tif: 528.1708218443628
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00049-f025c6e6.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00049-f025c6e6.tif: 646.6294806985294
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00050-b32ba3cf.tif
+2025-10-09 11:14:56,010 - INFO - Mean Squared Error for 00050-b32ba3cf.tif: 576.78515625
+2025-10-09 11:14:56,010 - INFO - Saved aligned image: ./ECC_output_method1_pre/ECC_00051-d9f9a9d9.tif
+2025-10-09 11:14:56,011 - INFO - Mean Squared Error for 00051-d9f9a9d9.tif: 414.0641084558824
+2025-10-09 11:14:56,513 - INFO - Processing ECC alignment batch 2/2 (49 images)
