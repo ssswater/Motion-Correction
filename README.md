@@ -32,3 +32,12 @@ The `motionCorrection.py` script provides three selectable correction strategies
    - Applies global ECC alignment first, followed by local B-spline refinement.  
    - Produces the best results for gastric MRI motion correction.
 
+## Another methods
+
+The `motionCorrection_dicom.py` script directly reads DICOM files, preserving the original image data. But, the final registration results are almost same as those produced by `motionCorrection.py`. 
+
+The `motionCorrection_landmarks.py` script implements landmark-based image registration. Users manually select four corresponding landmarks in the images, and the transformation is computed based on these point correspondences. Please cite reference [1] if using this script for research or publication.
+
+## References
+
+[1] Hosseini, S., Avci, R., Paskaranandavadivel, N., Suresh, V., & Cheng, L. K. (2023). Quantification of the Regional Properties of Gastric Motility Using Dynamic Magnetic Resonance Images. *IEEE open journal of engineering in medicine and biology*, *4*, 38–44. https://doi.org/10.1109/OJEMB.2023.3261224
