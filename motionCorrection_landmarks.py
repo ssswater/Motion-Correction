@@ -572,35 +572,25 @@ class Weasis3DMotionCorrection:
             if event.key == 'right':
                 if current_landmarks and len(current_landmarks) == 4:
                     save_current_landmarks()
-                
-                current_index_in_list = frames_with_landmarks.index(current_idx)
-                if current_index_in_list < len(frames_with_landmarks) - 1:
-                    current_idx = frames_with_landmarks[current_index_in_list + 1]
-                else:
-                    current_idx = frames_with_landmarks[0]  
-                
+                # 改为在所有帧之间导航
+                current_idx = min(current_idx + 1, len(all_frames) - 1)
                 is_adjusting = False
                 selected_point = None
-                
                 load_current_landmarks()
-                update_display(current_idx, f"Loaded frame {current_idx + 1}")
-                
+                has_lm = "✓ Has landmarks" if current_landmarks else "No landmarks - click to add"
+                update_display(current_idx, has_lm)
+
             elif event.key == 'left':
                 if current_landmarks and len(current_landmarks) == 4:
                     save_current_landmarks()
-                
-                current_index_in_list = frames_with_landmarks.index(current_idx)
-                if current_index_in_list > 0:
-                    current_idx = frames_with_landmarks[current_index_in_list - 1]
-                else:
-                    current_idx = frames_with_landmarks[-1]  
-                
+                # 改为在所有帧之间导航
+                current_idx = max(current_idx - 1, 0)
                 is_adjusting = False
                 selected_point = None
-                
                 load_current_landmarks()
-                update_display(current_idx, f"Loaded frame {current_idx + 1}")
-                
+                has_lm = "✓ Has landmarks" if current_landmarks else "No landmarks - click to add"
+                update_display(current_idx, has_lm)    
+
             elif event.key == 'escape':
                 if current_landmarks and len(current_landmarks) == 4:
                     save_current_landmarks()
@@ -979,14 +969,17 @@ class Weasis3DMotionCorrection:
         
         def load_current_landmarks():
             nonlocal current_idx, current_landmarks, landmarks_collected
+            print(f"Loading frame {current_idx + 1}, keys in storage: {sorted(self.data_storage.get(self.case_number, {}).get('Info', {}).keys())[-5:]}")
             if current_idx in self.data_storage.get(self.case_number, {}).get('Info', {}):
                 if 'LandMarks' in self.data_storage[self.case_number]['Info'][current_idx]:
                     existing_landmarks = self.data_storage[self.case_number]['Info'][current_idx]['LandMarks']
                     current_landmarks = existing_landmarks.tolist()
                     landmarks_collected = len(current_landmarks)
+                    print(f"  → Loaded {landmarks_collected} landmarks")
                     return True
             current_landmarks = []
             landmarks_collected = 0
+            print(f"  → No landmarks found for frame {current_idx + 1}")
             return False
         
         def update_display(idx, message=None):
@@ -1033,9 +1026,11 @@ class Weasis3DMotionCorrection:
             plt.draw()
         
         def on_key(event):
+            print(f"Key pressed: {event.key}")  # ← 加这一行在最开头
             nonlocal current_idx, landmarks_collected, current_landmarks, is_adjusting, selected_point
             
             if event.key == 'right':
+                print(f"Right pressed, current: {current_idx}, max: {len(all_frames)-1}")
                 # 保存当前帧的修改
                 if current_landmarks and len(current_landmarks) == 4:
                     save_current_landmarks()
@@ -1072,9 +1067,12 @@ class Weasis3DMotionCorrection:
                 plt.close(fig)
                 return
                 
-            elif event.key == 'c':  # 手动复制上一帧的landmarks
+            elif event.key == 'c':
+                print(f"Current idx: {current_idx}")
+                print(f"Previous idx: {current_idx - 1}")
+                print(f"Keys in storage: {sorted(self.data_storage.get(self.case_number, {}).get('Info', {}).keys())}")
                 if self.copy_landmarks_from_previous_frame(current_idx, all_frames):
-                    load_current_landmarks()  # 重新加载当前帧的landmarks
+                    load_current_landmarks()
                     update_display(current_idx, "✓ Copied landmarks from previous frame")
                 else:
                     update_display(current_idx, "No previous landmarks to copy")
@@ -1366,10 +1364,34 @@ class Weasis3DMotionCorrection:
             first_size = list(unique_sizes.keys())[0]
             print(f"All frames have consistent size: {first_size[1]}x{first_size[0]}")
 
-        # 限制处理帧数（可选）
-        if len(all_frames) > 100:
-            all_frames = all_frames[:100]
-            print(f"Processing first 100 frames only (out of {len(all_frames)})")
+        # 让用户选择处理哪些帧
+        print(f"\nTotal frames available: {len(all_frames)}")
+        print("Select frames to process:")
+        print("  Enter range like '1-50' for frames 1 to 50")
+        print("  Press Enter to process all frames")
+
+        frame_input = input("Frame selection: ").strip()
+
+        if frame_input == '':
+            # 处理所有帧
+            selected_indices = list(range(len(all_frames)))
+            print(f"Processing all {len(all_frames)} frames")
+
+        elif '-' in frame_input and ',' not in frame_input:
+            # 范围选择，如 '1-50'
+            try:
+                start, end = frame_input.split('-')
+                start = max(0, int(start) - 1)        # 转为0-index
+                end = min(len(all_frames), int(end))   # 包含end帧
+                selected_indices = list(range(start, end))
+                print(f"Processing frames {start+1} to {end} ({len(selected_indices)} frames)")
+            except ValueError:
+                print("Invalid range, processing all frames")
+                selected_indices = list(range(len(all_frames)))
+
+        # 按选择过滤帧
+        all_frames = [all_frames[i] for i in selected_indices]
+        print(f"✓ {len(all_frames)} frames selected for processing")
 
         # 设置显示范围
         first_image = all_frames[0]['image']
@@ -1395,13 +1417,14 @@ class Weasis3DMotionCorrection:
                 filename = "landmarks_data.json"
             if self.load_landmarks_from_file(filename, all_frames):
                 print("✓ Landmarks loaded successfully!")
-                # 进入编辑模式而不是简单可视化
-                edit_response = input("Enter edit mode to adjust landmarks? (y/n): ").strip().lower()
-                if edit_response == 'y':
+                print(f"  Loaded landmarks for frames 1-100, total frames available: {len(all_frames)}")
+                mode = input("Choose mode:\n  1: Edit existing landmarks only (frames 1-100)\n  2: Continue adding new landmarks (frames 101+)\n  Enter 1 or 2: ").strip()
+                if mode == '1':
                     self.visualize_landmarks_from_file(all_frames)
                 else:
-                    # 如果不需要编辑，直接进行后续处理
-                    print("Proceeding with loaded landmarks...")
+                    # 进入收集模式，可以访问所有帧
+                    print("Entering collection mode - you can navigate all frames and add new landmarks...")
+                    self.interactive_navigation_collect_landmarks(all_frames)
             else:
                 print("Starting new landmark collection...")
                 # 步骤1: 交互式标志点收集（支持从上一帧复制）
@@ -1446,7 +1469,8 @@ class Weasis3DMotionCorrection:
 def main():
     corrector = Weasis3DMotionCorrection()
     
-    folder_path = "./73bbcc6f/f3db1a6e/38fe033e"  
+    #folder_path = "/hpc/lsu876/MRI_seg/results_motionCorrection_and_contraction map/motion correction/MRB015/273f3eae/5a30e1e4/5a30e63a"  
+    folder_path = "./273f3eae/5a30e1e4/5a30e63a" 
     
     if not os.path.exists(folder_path):
         print(f"Error: Folder not found: {folder_path}")
